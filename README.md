@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Shin%20Mini&fontSize=90)
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="github-markdown.css">
 <script type="text/javascript"> import githubMarkdownCss from 'generate-github-markdown-css';</script>
 <style>
@@ -59,8 +59,12 @@
 </div>
 </article>
 
-<br>
+아 왜안되냐 진자 ㅠ
+<br> -->
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini" >
+<img style="width: 600px; padding-left: 40px; height: 300px; padding: auto; margin: auto;" src="https://github-readme-stats.vercel.app/api/?username=ShinMini" >
+<img style="width: 100%; margin-top: 40px;"src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue" >
 
 
 
