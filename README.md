@@ -63,7 +63,7 @@
 <br> -->
 
 <div style="display: grid; grid-template-columns: 2.5fr 1fr;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini" >
+<img style="height: 285px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini" >
 <img style="width: 700px; height: 285px;" src="https://github-readme-stats.vercel.app/api/?username=ShinMini" >
 </div>
 <img style="width: 100%;"src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue" >
