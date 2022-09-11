@@ -12,10 +12,12 @@
       img.git-stats {
          padding-top: 8px;
          min-width: 400px;
+         height: 100%;
       }
 
       img.git-usedLang {
-         min-width: 400px;
+         min-width: 250px;
+         max-width: 300px;
          padding-top: 15px;
       }
 
