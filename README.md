@@ -1,7 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Shin%20Mini&fontSize=90)
 
 <style>
+   div {
+      display: block;
+   }
+
    @media (max-width: 730px) {
+
          div.api-box {
             display: flex;
             flex-direction: column;
@@ -20,9 +25,11 @@
             min-width: 400px;
             padding-top: 15px;
          }
+
       }
 
       @media (min-width: 730.5px) {
+
          div.api-box {
             display: flex;
          }
@@ -42,6 +49,7 @@
 
             min-width: 730px;
          }
+
       }
    </style>
 
