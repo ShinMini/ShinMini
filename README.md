@@ -2,6 +2,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="github-markdown.css">
+<script type="text/javascript"> import githubMarkdownCss from 'generate-github-markdown-css';</script>
 <style>
 	.markdown-body {
 		box-sizing: border-box;
