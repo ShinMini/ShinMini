@@ -2,24 +2,73 @@
 
  
 
-![Github Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShinMini)
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini)
 
-### 📱 Contact
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![instagram](https://img.shields.io/badge/InstaGram-000000?style=for-the-badge&logo=InstaGram&logoColor=#F7DF1E)
-![blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
-![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
----
+   <style>
+
+    
+      @media (max-width: 730px) {
+         div.api-box {
+            display: flex;
+            flex-direction: column;
+         }
+
+         img.git-graph{
+            min-width: 400px;
+         }
+
+         img.git-stats {
+            padding-top: 8px;
+            min-width: 400px;
+         }
+
+         img.git-usedLang {
+            min-width: 400px;
+            padding-top: 15px;
+         }
+      }
+
+      @media (min-width: 730.5px) {
+         div.api-box {
+            display: flex;
+         }
+
+         img.git-stats {
+            min-width: 495px;
+            height: 290px;
+         }
+
+         img.git-usedLang {
+            min-width: 205px;
+            height: 290px;
+            padding-left: 15px;
+         }
+         img.git-graph{
+            width: 100%;
+
+            min-width: 730px;
+         }
+      }
+   </style>
+
+   <div>
+   <img class="git-graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue" >
+   </div>
+   <div class="api-box">
+   <img class="git-stats" src="https://github-readme-stats.vercel.app/api/?username=ShinMini" >
+   <img class="git-usedLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini" >
+   </div>
+   <br>
 
 # 🛠️ skills
-# 👩‍💻 languages
+<br>
+
 ## 🤖 Artificial Intelligence
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tenAsorflow&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logocolor=white)
 ![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+
+<br>
 
 ## 🌐 Front-End Development
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -32,13 +81,19 @@
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![openjdk](https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+<br>
+
 ## 🔗 Back-End Development
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![java](https://img.shields.io/badge/Java-998888?style=for-the-badge&logo=java%2B%2B&logoColor=white)
 ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
+<br>
+
 ---
+
+<br>
 
 ## 🚀 Frameworks & Library
 ![node js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -56,6 +111,8 @@
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
+
+<br>
 
 ## ⚡ Database 
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
