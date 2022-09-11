@@ -1,6 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Shin%20Mini&fontSize=90)
 
-<style type="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="github-markdown.css">
+<style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+      }
    @media (max-width: 730px) {
       div.api-box {
          display: flex;
@@ -39,7 +48,7 @@
    }
 }
 </style>
-
+<article class="markdown-body">
 <div>
 <img class="git-graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue" >
 </div>
@@ -47,6 +56,8 @@
 <img class="git-stats" src="https://github-readme-stats.vercel.app/api/?username=ShinMini" >
 <img class="git-usedLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini" >
 </div>
+</article>
+
 <br>
 
 
