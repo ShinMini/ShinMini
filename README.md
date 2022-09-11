@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Shin%20Mini&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=350&section=header&text=Shin%20Mini&fontSize=90)
 
 <!-- <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="github-markdown.css">
