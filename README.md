@@ -64,7 +64,7 @@
 
 <div style="display: grid; grid-template-columns: 2.5fr 1fr;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini" >
-<img style="width: 600px; padding-left: 40px; height: 300px; margin: auto;" src="https://github-readme-stats.vercel.app/api/?username=ShinMini" >
+<img style="width: 600px; height: 300px; margin-left: 40px;" src="https://github-readme-stats.vercel.app/api/?username=ShinMini" >
 </div>
 <img style="width: 100%; margin-top: 40px;"src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue" >
 
