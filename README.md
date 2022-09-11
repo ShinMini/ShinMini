@@ -3,6 +3,9 @@
 ## keep studying when I satisfied 😁
  <a href="https://www.instagram.com/shin__mini/" target="_blank"><img src="https://img.shields.io/badge/#B289D9?style=flat-square&logo=Shin hyeon min instagram profile&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/#9AD4F0?style=for-the-badge&logo=REACT&logoColor=black">
+
+ ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
  
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
