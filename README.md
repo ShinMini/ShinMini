@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=skyblue&height=300&section=header&text=Shin%20Mini&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=blue&height=300&section=header&text=Shin%20Mini&fontSize=90)
 
 <!-- <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="github-markdown.css">
@@ -62,7 +62,7 @@
 아 왜안되냐 진짜 ㅠ
 <br> -->
 
-<div style="display: grid; grid-template-columns: 2.5fr .5fr 1fr;">
+<div style="display: grid; grid-template-columns: 2.4fr .1fr 1fr;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini" >
 <div/>
 <img style="width: 600px; height: 300px; padding-left: 40px;" src="https://github-readme-stats.vercel.app/api/?username=ShinMini" >
