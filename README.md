@@ -169,7 +169,7 @@
 # 🚀 Take A Look My Project !!!
 
 ## DEV ENV Setting
-   [my env set](https://github.com/ShinMini/Window_SetUp)
+   * [my env set](https://github.com/ShinMini/Window_SetUp)
 
 ## Front-End Projects
    * REACT
