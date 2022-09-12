@@ -168,9 +168,10 @@
 
 # 🚀 Take A Look My Project !!!
 
-## DEV ENV Setting [my env set](https://github.com/ShinMini/Window_SetUp)
-![image](https://user-images.githubusercontent.com/77220824/189606422-dbb14d21-315a-416c-ab8a-0a72f07afc5e.png)
+## DEV ENV Setting 
+   * [my env set](https://github.com/ShinMini/Window_SetUp)
 
+<br />
 
 ## Front-End Projects
    * REACT
@@ -183,12 +184,13 @@
    * SPRING-JDK
    * PYSCRIPT
    
+<br />
+   
 ## Back-End Projects
    * C++
    * Kotlin
    * JAVA
    
-
 
 
 
