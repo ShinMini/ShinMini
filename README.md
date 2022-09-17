@@ -170,20 +170,26 @@
 
 ## DEV ENV Setting 
    * [my env set (Text)](https://github.com/ShinMini/Window_SetUp)
+   * [my linux set (Text), window sub sys ubuntu](https://github.com/ShinMini/Ubuntu-In-Windows)
 
 <br />
 
 ## Front-End
    * REACT
       1. [REACT-ROUTER (Text)](https://github.com/ShinMini/Study-React-Router)
+      2. [Movie app (project), clone coding](https://github.com/ShinMini/Movie-APP)
+      3. [ROUTER -sample (project, text) -미완성](https://github.com/ShinMini/Router)
  
    * BANILA JS
       1. [EXPRESS (Text)](https://github.com/ShinMini/Express)
       2. [Study-JS (Project)](https://github.com/ShinMini/Study-JS)
+      3. [study css template (pj, text)](https://github.com/ShinMini/CSS-Animation-Form)
       
    * PHP
+   	1. [electric bycicle manage app](https://github.com/ShinMini/Web-Form-PHP)
    
    * SPRING-JDK
+   	1. [Spring template sample (project, test) -미완성](https://github.com/ShinMini/spring-web)
    
    * PYSCRIPT
    
