@@ -169,17 +169,17 @@
 # 🚀 Take A Look My Project !!!
 
 ## DEV ENV Setting 
-   * [my env set](https://github.com/ShinMini/Window_SetUp)
+   * [my env set (Text)](https://github.com/ShinMini/Window_SetUp)
 
 <br />
 
 ## Front-End
    * REACT
-      1. [REACT-ROUTER](https://github.com/ShinMini/Study-React-Router)
+      1. [REACT-ROUTER (Text)](https://github.com/ShinMini/Study-React-Router)
  
    * BANILA JS
-      1. [EXPRESS](https://github.com/ShinMini/Express)
-      2. [Study-JS](https://github.com/ShinMini/Study-JS)
+      1. [EXPRESS (Text)](https://github.com/ShinMini/Express)
+      2. [Study-JS (Project)](https://github.com/ShinMini/Study-JS)
       
    * PHP
    
@@ -200,11 +200,11 @@
    
 ## Server 
    * Servlet
-      1. [company management web site](https://github.com/ShinMini/Servlet-java)
+      1. [company management web site (Project)](https://github.com/ShinMini/Servlet-java)
    * Ajax with flask
-      1. [club management web site](https://github.com/ShinMini/Club-Management)
+      1. [club management web site (Project)](https://github.com/ShinMini/Club-Management)
    * npm(node js)
-      1. [react router web site](https://github.com/ShinMini/Club-Management)
+      1. [react router web site (Project)](https://github.com/ShinMini/Club-Management)
    
 
 <br>
