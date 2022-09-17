@@ -191,8 +191,13 @@
    
 ## Back-End 
    * C++
+   	1. [cpp library management sys (Project)](https://github.com/ShinMini/cpp_library_calculator)
+   	2. [cpp algorithm (Text)](https://github.com/ShinMini/Algorithm)
    * Kotlin
+   	1. [Kotlin chat app (Project), ](https://github.com/ShinMini/Kotlin-Android)
    * JAVA
+   	1. [POKEMON BOOK (Project)](https://github.com/ShinMini/pokemon-book)
+   	2. [cafe management app (Project)](https://github.com/ShinMini/cafeMangementAPP)
    
 
    
