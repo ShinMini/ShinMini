@@ -27,6 +27,7 @@ img.git-graph {
    min-width: 730px;
 }
 	
+/*
 @media only screen and (max-width: 768px) {
    /* For mobile phones: */
 div.api-box {
@@ -44,6 +45,7 @@ img.git-usedLang {
    min-width: 400px;
    padding-top: 15px;
 }
+*/
 	
 </style>
 
