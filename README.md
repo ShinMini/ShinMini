@@ -123,23 +123,23 @@
 
 ## Front-End
    * REACT
-      1. [REACT-ROUTER (Text)](https://github.com/ShinMini/Study-React-Router)
-      2. [Movie app (project), clone coding](https://github.com/ShinMini/Movie-APP)
-      3. [ROUTER -sample (project, text) -미완성](https://github.com/ShinMini/Router)
+      1. [REACT-ROUTER (TEXT)](https://github.com/ShinMini/Study-React-Router)
+      2. [MOVIE APP (PROJECT), CLONE CODING](https://github.com/ShinMini/Movie-APP)
+      3. [ROUTER -SAMPLE (PROJECT, TEXT) -미완성](https://github.com/ShinMini/Router)
  
    * BANILA JS
-      1. [EXPRESS (Text)](https://github.com/ShinMini/Express)
-      2. [Study-JS (Project)](https://github.com/ShinMini/Study-JS)
-      3. [study css template (pj, text)](https://github.com/ShinMini/CSS-Animation-Form)
+      1. [EXPRESS (TEXT)](https://github.com/ShinMini/Express)
+      2. [STUDY-JS (PROJECT)](https://github.com/ShinMini/Study-JS)
+      3. [STUDY CSS TEMPLATE (PROJECT, TEXT)](https://github.com/ShinMini/CSS-Animation-Form)
       
    * PHP
-   	1. [electric bycicle manage app](https://github.com/ShinMini/Web-Form-PHP)
+   	1. [ELECTRIC BYCICLE MANAGE APP](HTTPS://GITHUB.COM/sHINmINI/wEB-fORM-php)
    
    * SPRING-JDK
-   	1. [Spring template sample (project, test) -미완성](https://github.com/ShinMini/spring-web)
+   	1. [SPRING TEMPLATE SAMPLE (PROJECT, TEST) -미완성](https://github.com/ShinMini/spring-web)
    
    * PYSCRIPT
-         1. [pyscript game controller site (incomplete)](https://github.com/ShinMini/Club-Management)
+         1. [아직 생성 X, need to create project](https://github.com/ShinMini/Club-Management)
    
 <br />
    
@@ -148,10 +148,10 @@
    	1. [cpp library management sys (Project)](https://github.com/ShinMini/cpp_library_calculator)
    	2. [cpp algorithm (Text)](https://github.com/ShinMini/Algorithm)
    * Kotlin
-   	1. [Kotlin chat app (Project), ](https://github.com/ShinMini/Kotlin-Android)
+   	1. [KOTLIN CHAT APP (PROJECT), 미완성 프로젝트](https://github.com/ShinMini/Kotlin-Android)
    * JAVA
-   	1. [POKEMON BOOK (Project)](https://github.com/ShinMini/pokemon-book)
-   	2. [cafe management app (Project)](https://github.com/ShinMini/cafeMangementAPP)
+   	1. [POKEMON BOOK (PROJECT)](https://github.com/ShinMini/pokemon-book)
+   	2. [CAFE MANAGEMENT APP (PROJECT)](https://github.com/ShinMini/cafeMangementAPP)
    
 
    
@@ -159,11 +159,11 @@
    
 ## Server 
    * Servlet
-      1. [company management web site (Project)](https://github.com/ShinMini/Servlet-java)
+      1. [COMPANY MANAGEMENT WEB SITE (PROJECT)](https://github.com/ShinMini/Servlet-java)
    * Ajax with flask
-      1. [club management web site (Project)](https://github.com/ShinMini/Club-Management)
+      1. [CLUB MANAGEMENT WEB SITE (PROJECT)](https://github.com/ShinMini/Club-Management)
    * npm(node js)
-      1. [react router web site (incomplete)](https://github.com/ShinMini/Club-Management)
+      1. [REACT ROUTER WEB SITE (INCOMPLETE)- 미완성](https://github.com/ShinMini/Club-Management)
    
 
 <br>
