@@ -1,30 +1,4 @@
-<style type="text/css">
-.markdown-body {
-   box-sizing: border-box;
-   min-width: 200px;
-   max-width: 980px;
-   margin: 0 auto;
-   padding: 45px;
-}
-div.api-box {
-   display: flex;
-}
-img.git-stats {
-   width: 100%;
-   min-width: 510px;
-   min-height: 295px;
-}
-img.git-usedLang {
-   width: 40%;
-   min-width: 205px;
-   min-height: 295px;
-   padding-left: 15px;
-}
-img.git-graph {
-   width: 100%;
-   min-width: 730px;
-}
-</style>
+
 	
 
 	
