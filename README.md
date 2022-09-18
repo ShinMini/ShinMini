@@ -1,13 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Shin%20Mini&fontSize=90)
 
 <style>
-      .markdown-body {
+   .markdown-body {
 		box-sizing: border-box;
 		min-width: 200px;
 		max-width: 980px;
 		margin: 0 auto;
 		padding: 45px;
-      }
+   }
    @media (max-width: 730px) {
       div.api-box {
          display: flex;
@@ -46,6 +46,9 @@
    }
 }
 </style>
+
+
+
 <article class="markdown-body">
 <div>
 <img class="git-graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue" >
