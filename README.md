@@ -192,6 +192,7 @@
    	1. [Spring template sample (project, test) -미완성](https://github.com/ShinMini/spring-web)
    
    * PYSCRIPT
+         1. [pyscript game controller site (incomplete)](https://github.com/ShinMini/Club-Management)
    
 <br />
    
@@ -215,7 +216,7 @@
    * Ajax with flask
       1. [club management web site (Project)](https://github.com/ShinMini/Club-Management)
    * npm(node js)
-      1. [react router web site (Project)](https://github.com/ShinMini/Club-Management)
+      1. [react router web site (incomplete)](https://github.com/ShinMini/Club-Management)
    
 
 <br>
