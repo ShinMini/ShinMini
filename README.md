@@ -116,8 +116,8 @@
 # 🚀 Take A Look My Project !!!
 
 ## DEV ENV Setting 
-   * [my env set (Text)](https://github.com/ShinMini/Window_SetUp)
-   * [my linux set (Text), window sub sys ubuntu](https://github.com/ShinMini/Ubuntu-In-Windows)
+   * [WINDOW ENV SETTING (Text)](https://github.com/ShinMini/Window_SetUp)
+   * [LINUX ENV SETTING (Text), window sub-sys ver](https://github.com/ShinMini/Ubuntu-In-Windows)
 
 <br />
 
