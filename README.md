@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Shin%20Mini&fontSize=90)
 
-<style>
+<style type="text/css">
+	
 .markdown-body {
    box-sizing: border-box;
    min-width: 200px;
