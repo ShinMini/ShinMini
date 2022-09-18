@@ -145,8 +145,8 @@
    
 ## Back-End 
    * C++
-   	1. [cpp library management sys (Project)](https://github.com/ShinMini/cpp_library_calculator)
-   	2. [cpp algorithm (Text)](https://github.com/ShinMini/Algorithm)
+        1. [CPP LIBRARY MANAGEMENT SYS (PROJECT)](https://github.com/ShinMini/cpp_library_calculator)
+   	2. [CPP ALGORITHM (TEXT)](https://github.com/ShinMini/Algorithm)	
    * Kotlin
    	1. [KOTLIN CHAT APP (PROJECT), 미완성 프로젝트](https://github.com/ShinMini/Kotlin-Android)
    * JAVA
