@@ -2,59 +2,52 @@
 
 <style>
    .markdown-body {
-		box-sizing: border-box;
-		min-width: 200px;
-		max-width: 980px;
-		margin: 0 auto;
-		padding: 45px;
+   box-sizing: border-box;
+   min-width: 200px;
+   max-width: 980px;
+   margin: 0 auto;
+   padding: 45px;
    }
-   @media (max-width: 730px) {
-      div.api-box {
-         display: flex;
-         flex-direction: column;
-      }
-      img.git-graph {
-         min-width: 400px;
-      }
-      img.git-stats {
-         padding-top: 8px;
-         min-width: 400px;
-      }
-      img.git-usedLang {
-         min-width: 400px;
-         padding-top: 15px;
-      }
+   div.api-box {
+   display: flex;
    }
-   @media (min-width: 730.5px) {
-      div.api-box {
-         display: flex;
-      }
-      img.git-stats {
-         width: 100%;
-         min-width: 510px;
-         min-height: 295px;
-      }
-      img.git-usedLang {
-         width: 40%;
-         min-width: 205px;
-         min-height: 295px;
-         padding-left: 15px;
-      }
-      img.git-graph {
-         width: 100%;
-         min-width: 730px;
+   img.git-stats {
+   width: 100%;
+   min-width: 510px;
+   min-height: 295px;
    }
-}
+   img.git-usedLang {
+   width: 40%;
+   min-width: 205px;
+   min-height: 295px;
+   padding-left: 15px;
+   }
+   img.git-graph {
+   width: 100%;
+   min-width: 730px;
+   }
+   @media only screen and (max-width: 768px) {
+   /* For mobile phones: */
+   div.api-box {
+   display: flex;
+   flex-direction: column;
+   }
+   img.git-graph {
+   min-width: 400px;
+   }
+   img.git-stats {
+   padding-top: 8px;
+   min-width: 400px;
+   }
+   img.git-usedLang {
+   min-width: 400px;
+   padding-top: 15px;
+   }
 </style>
 
 <article class="markdown-body">
-<div>
-<img class="git-graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue" >
-</div>
 <div class="api-box">
-<img class="git-stats" src="https://github-readme-stats.vercel.app/api/?username=ShinMini" >
-<img class="git-usedLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini" >
-
+	
 <!-- 위에 부분 안되면 STYLE TAG 삭제 후 다시 시도 ㄱㄱ -->
 <!-- ------------------------------------------------->
 
