@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Shin%20Mini&fontSize=90)
 
-
-<link rel="stylesheet" href="github-markdown.css">
-<script type="text/javascript"> import githubMarkdownCss from 'generate-github-markdown-css';</script>
 <style>
 	.markdown-body {
 		box-sizing: border-box;
