@@ -1,7 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Shin%20Mini&fontSize=90)
-
 <style type="text/css">
-	
 .markdown-body {
    box-sizing: border-box;
    min-width: 200px;
@@ -27,28 +24,11 @@ img.git-graph {
    width: 100%;
    min-width: 730px;
 }
-	
-/*
-@media only screen and (max-width: 768px) {
-   /* For mobile phones: */
-div.api-box {
-   display: flex;
-   flex-direction: column;
-}
-img.git-graph {
-   min-width: 400px;
-}
-img.git-stats {
-   padding-top: 8px;
-   min-width: 400px;
-}
-img.git-usedLang {
-   min-width: 400px;
-   padding-top: 15px;
-}
-*/
-	
 </style>
+	
+
+	
+
 
 <article class="markdown-body">
 <div class="api-box">
