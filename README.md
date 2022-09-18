@@ -47,8 +47,6 @@
 }
 </style>
 
-
-
 <article class="markdown-body">
 <div>
 <img class="git-graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue" >
@@ -56,13 +54,8 @@
 <div class="api-box">
 <img class="git-stats" src="https://github-readme-stats.vercel.app/api/?username=ShinMini" >
 <img class="git-usedLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini" >
-</div>
-</article>
 
-아 왜안되냐 진짜 ㅠ
-<br>
-
-<!-- 위에 부분 안되면 STYLE TAG 삭제 후 다시 시도 ㄱㄱ --> 
+<!-- 위에 부분 안되면 STYLE TAG 삭제 후 다시 시도 ㄱㄱ -->
 <!-- ------------------------------------------------->
 
 <div style="display: grid; grid-template-columns: 2.5fr 1fr;">
@@ -70,6 +63,9 @@
 	<img style="width: 700px; height: 285px;" src="https://github-readme-stats.vercel.app/api/?username=ShinMini" >
 </div>
 <img style="width: 100%;"src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue" >
+</div>
+
+</article>
 
 
 
