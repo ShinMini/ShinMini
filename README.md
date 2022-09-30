@@ -16,7 +16,8 @@
 
 # SKILLS 🛠️
 
-## 🤖 [#f03c15]Artificial Intelligence `#f03c15`
+## 🤖 Artificial Intelligence
+
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tenAsorflow&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logocolor=white)
 ![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
@@ -24,6 +25,7 @@
 
 
 ## 🌐 Front-End Development
+
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,15 +38,18 @@
 
 
 ## 🔗 Back-End Development
+
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![java](https://img.shields.io/badge/Java-998888?style=for-the-badge&logo=java%2B%2B&logoColor=white)
 ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
 ---
+
 # TOOLS 🛠️
 
 ## 🚀 Frameworks & Library
+
 ![node js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![tsnode](https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
@@ -66,31 +71,33 @@
 ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<hr>
+---
 
 # ⚙️ ENV
 
 ## 💻 OS
+
 ![window](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![mac os](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ## 💻 Terminal
+
 ![powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![windows powershell](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
 ## 👩‍💻 IDE
+
 ![neo vim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![webstorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 
-<hr>
-<br>
+---
 
 # 🚀 Take a look my project lists 😊
 
@@ -99,8 +106,6 @@
    - [WINDOW ENV SETTING (Text)](https://github.com/ShinMini/Window_SetUp) `#c5f015`
    
    - [LINUX ENV SETTING (Text), window sub-sys ver](https://github.com/ShinMini/Ubuntu-In-Windows)
-
-<br />
 
 # Front-End
    
@@ -126,8 +131,7 @@
    ### WEB-LIB
    1. [webpack 삽질 (TEXT)](https://github.com/ShinMini/webpack-SAB-JIL)
    2. [BABEL 삽질 (TEXT)](https://github.com/ShinMini/babel-SAB-JIL)
-<br />
-   
+
 # Back-End 
    
    ### C++
@@ -141,9 +145,6 @@
    1. [POKEMON BOOK (PROJECT)](https://github.com/ShinMini/pokemon-book)
    2. [CAFE MANAGEMENT APP (PROJECT)](https://github.com/ShinMini/cafeMangementAPP)
     
-   
-   
-<br />
    
 # Server 
    
@@ -161,6 +162,6 @@
    
 <br>
 <hr>
-<br>
-
-# What does not kill me makes me stronger - Friedrich Nietzsche
+```diff
++ What does not kill me makes me stronger - Friedrich Nietzsche
+```
