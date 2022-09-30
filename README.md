@@ -1,11 +1,13 @@
 ![github__head_banner](https://user-images.githubusercontent.com/77220824/190882822-91ab89a3-400c-4a53-81e8-84573c2c9169.png)
 
+
+
+# SKILLS 🛠️
+
 <div style="display: flex; flex-direction: columns; align-items: center">
 <img style="height:195px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini" >
 <img src="https://github-readme-stats.vercel.app/api/?username=ShinMini" >
 </div>
-
-# SKILLS 🛠️
 
 ## 🤖 Artificial Intelligence
 
@@ -90,9 +92,9 @@
 
 ---
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue" >
-
 # 🚀 Take a look my project lists 😊
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue" >
 
 # DEV ENV Setting 
    
