@@ -97,37 +97,48 @@
 # 🚀 Take a look my project lists 😊
 
 ## DEV ENV Setting 
+   
    * [WINDOW ENV SETTING (Text)](https://github.com/ShinMini/Window_SetUp)
+   
    * [LINUX ENV SETTING (Text), window sub-sys ver](https://github.com/ShinMini/Ubuntu-In-Windows)
 
 <br />
 
 ## Front-End
+   
    * REACT
       1. [REACT-ROUTER (TEXT)](https://github.com/ShinMini/Study-React-Router)
       2. [MOVIE APP (PROJECT), CLONE CODING](https://github.com/ShinMini/Movie-APP)
       3. [ROUTER -SAMPLE (PROJECT, TEXT) -미완성](https://github.com/ShinMini/Router)
+      
    * BANILA JS
       1. [EXPRESS (TEXT)](https://github.com/ShinMini/Express)
       2. [STUDY-JS (PROJECT)](https://github.com/ShinMini/Study-JS)
       3. [STUDY CSS TEMPLATE (PROJECT, TEXT)](https://github.com/ShinMini/CSS-Animation-Form)      
+   
    * PHP
    	1. [ELECTRIC BYCICLE MANAGE APP](HTTPS://GITHUB.COM/sHINmINI/wEB-fORM-php) 
+  
    * SPRING-JDK
    	1. [SPRING TEMPLATE SAMPLE (PROJECT, TEST) -미완성](https://github.com/ShinMini/spring-web) 
+   
    * PYSCRIPT
    	1. [아직 생성 X, need to create project](https://github.com/ShinMini/Club-Management)
+   
    * WEB-LIB
     	1. [webpack 삽질 (TEXT)](https://github.com/ShinMini/webpack-SAB-JIL)
     	2. [BABEL 삽질 (TEXT)](https://github.com/ShinMini/babel-SAB-JIL)
 <br />
    
 ## Back-End 
+   
    * C++
     	1. [CPP LIBRARY MANAGEMENT SYS (PROJECT)](https://github.com/ShinMini/cpp_library_calculator)
         2. [CPP ALGORITHM (TEXT)](https://github.com/ShinMini/Algorithm)	
+   
    * Kotlin
     	1. [KOTLIN CHAT APP (PROJECT), 미완성 프로젝트](https://github.com/ShinMini/Kotlin-Android)
+   
    * JAVA
     	1. [POKEMON BOOK (PROJECT)](https://github.com/ShinMini/pokemon-book)
     	2. [CAFE MANAGEMENT APP (PROJECT)](https://github.com/ShinMini/cafeMangementAPP)
@@ -137,12 +148,16 @@
 <br />
    
 ## Server 
+   
    * Servlet
       1. [COMPANY MANAGEMENT WEB SITE (PROJECT)](https://github.com/ShinMini/Servlet-java)
+   
    * Ajax with flask
       1. [CLUB MANAGEMENT WEB SITE (PROJECT)](https://github.com/ShinMini/Club-Management)
+   
    * npm(node js)
       1. [REACT ROUTER WEB SITE (INCOMPLETE)- 미완성](https://github.com/ShinMini/Club-Management)
+   
    * firebase
       1. [firebase 삽질(TEXT)](https://github.com/ShinMini/firebase-SAB-JIL)
    
