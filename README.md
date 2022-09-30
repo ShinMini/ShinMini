@@ -14,6 +14,7 @@
 </div>
 <style>
 a {
+	color: orange;
 	text-decoration: none;
 }
 </style>
