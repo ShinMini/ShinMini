@@ -94,7 +94,7 @@
 
 # 🚀 Take a look my project lists 😊
 
-<img style="height:230px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue" >
+<img style="width: 100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue" >
 
 # DEV ENV Setting 
    
