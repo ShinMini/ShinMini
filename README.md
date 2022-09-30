@@ -1,7 +1,7 @@
 ![github__head_banner](https://user-images.githubusercontent.com/77220824/190882822-91ab89a3-400c-4a53-81e8-84573c2c9169.png)
 
-
-<img style="width: 100%; height: 285px;" src="https://github-readme-stats.vercel.app/api/?username=ShinMini" >
+<img style="height: 285px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini" >
+<img style="height: 285px;" src="https://github-readme-stats.vercel.app/api/?username=ShinMini" >
 <img style="width: 100%;"src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue" >
 
 
@@ -154,7 +154,7 @@
 <br>
 <hr>
 
-<img style="width: 100%; height: 285px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini" >
+
 
 ```diff
 + What does not kill me makes me stronger
