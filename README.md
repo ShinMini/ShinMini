@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-direction: columns;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini" >
-<img src="https://github-readme-stats.vercel.app/api/?username=ShinMini" >
+<img style="height: 285px;" src="https://github-readme-stats.vercel.app/api/?username=ShinMini" >
 </div>
 
 # SKILLS 🛠️
