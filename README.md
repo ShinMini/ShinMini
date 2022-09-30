@@ -5,8 +5,8 @@
 # SKILLS 🛠️
 
 <div style="display: flex; flex-direction: columns; align-items: center">
-<img style="height:220px;" src="https://github-readme-stats.vercel.app/api/?username=ShinMini" >
-<img style="height:220px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini" >
+<img style="height:230px;" src="https://github-readme-stats.vercel.app/api/?username=ShinMini" >
+<img style="height:230px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini" >
 </div>
 
 ## 🤖 Artificial Intelligence
@@ -94,7 +94,7 @@
 
 # 🚀 Take a look my project lists 😊
 
-<img style="height:220px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue" >
+<img style="height:230px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue" >
 
 # DEV ENV Setting 
    
