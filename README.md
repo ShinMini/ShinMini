@@ -1,5 +1,11 @@
 ![github__head_banner](https://user-images.githubusercontent.com/77220824/190882822-91ab89a3-400c-4a53-81e8-84573c2c9169.png)
 
+<style>
+a{
+  color: orange;
+  text-decoration: none;
+}
+</style>
 <article class="markdown-body">
 <div class="api-box">
 	
@@ -15,12 +21,9 @@
 	
 
 </article>
-<style>
-a {
-	color: orange;
-	text-decoration: none;
-}
-</style>
+
+
+
 # SKILLS 🛠️
 
 
