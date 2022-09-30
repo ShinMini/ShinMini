@@ -1,10 +1,5 @@
 ![github__head_banner](https://user-images.githubusercontent.com/77220824/190882822-91ab89a3-400c-4a53-81e8-84573c2c9169.png)
 
-<style>
-a{
-  color: orange;
-}
-</style>
 <article class="markdown-body">
 <div class="api-box">
 	
@@ -106,7 +101,7 @@ a{
 
 # DEV ENV Setting 
    
-   * [WINDOW ENV SETTING (Text)](https://github.com/ShinMini/Window_SetUp)
+   * [WINDOW ENV SETTING (Text)](https://github.com/ShinMini/Window_SetUp) `#c5f015`
    
    * [LINUX ENV SETTING (Text), window sub-sys ver](https://github.com/ShinMini/Ubuntu-In-Windows)
 
