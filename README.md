@@ -2,7 +2,8 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/?username=ShinMini" >
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue" >
+<img style="height: 285px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini" >
+
 
 
 # SKILLS 🛠️
@@ -92,6 +93,8 @@
 
 # 🚀 Take a look my project lists 😊
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue" >
+
 # DEV ENV Setting 
    
    - [WINDOW ENV SETTING (Text)](https://github.com/ShinMini/Window_SetUp) 
@@ -154,7 +157,7 @@
 <br>
 <hr>
 
-<img style="height: 285px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini" >
+
 
 ```diff
 + What does not kill me makes me stronger
