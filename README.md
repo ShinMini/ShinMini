@@ -15,9 +15,7 @@
 
 </article>
 
-
-
-# skills 🛠️
+# SKILLS 🛠️
 
 
 ## 🤖 Artificial Intelligence
@@ -46,7 +44,7 @@
 ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
 ---
-# tools 🛠️
+# TOOLS 🛠️
 
 ## 🚀 Frameworks & Library
 ![node js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -72,7 +70,7 @@
 
 <hr>
 
-# ⚙️ Environments
+# ⚙️ ENV
 
 ## 💻 OS
 ![window](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -93,14 +91,10 @@
 ![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![webstorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 
-
-<br>
-<br>
 <hr>
 <br>
-<br>
 
-# 🚀 Take A Look My Project !!!
+# 🚀 Take a look my project lists 😊
 
 ## DEV ENV Setting 
    * [WINDOW ENV SETTING (Text)](https://github.com/ShinMini/Window_SetUp)
@@ -140,7 +134,6 @@
     	1. [POKEMON BOOK (PROJECT)](https://github.com/ShinMini/pokemon-book)
     	2. [CAFE MANAGEMENT APP (PROJECT)](https://github.com/ShinMini/cafeMangementAPP)
    
-
    
 <br />
    
@@ -152,11 +145,8 @@
    * npm(node js)
       1. [REACT ROUTER WEB SITE (INCOMPLETE)- 미완성](https://github.com/ShinMini/Club-Management)
    
-
-<br>
 <br>
 <hr>
-<br>
 <br>
 
 #### What does not kill me makes me stronger - Friedrich Nietzsche
