@@ -1,6 +1,7 @@
 ![github__head_banner](https://user-images.githubusercontent.com/77220824/190882822-91ab89a3-400c-4a53-81e8-84573c2c9169.png)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini" >
+<img src="https://github-readme-stats.vercel.app/api/?username=ShinMini" >
 
 # SKILLS 🛠️
 
@@ -35,8 +36,6 @@
 ---
 
 # TOOLS 🛠️
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue" >
 
 ## 🚀 Frameworks & Library
 
@@ -89,9 +88,9 @@
 
 ---
 
-# 🚀 Take a look my project lists 😊
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue" >
 
-<img src="https://github-readme-stats.vercel.app/api/?username=ShinMini" >
+# 🚀 Take a look my project lists 😊
 
 # DEV ENV Setting 
    
