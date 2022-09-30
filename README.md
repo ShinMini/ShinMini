@@ -93,13 +93,11 @@
 ---
 
 <br />
-<br />
 
 # 🚀 Take a look my project lists 😊
 
 <br />
 <img style="width: 100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue" >
-<br />
 
 # DEV ENV Setting 
    
