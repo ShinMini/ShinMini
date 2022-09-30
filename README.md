@@ -103,6 +103,8 @@
    - [WINDOW ENV SETTING (Text) 🟢](https://github.com/ShinMini/Window_SetUp) 
    - [LINUX ENV SETTING (Text) | window sub-sys ver 🟢](https://github.com/ShinMini/Ubuntu-In-Windows)
 
+<br />
+
 # Front-End
    
    ### REACT 🟡
@@ -128,6 +130,8 @@
    1. [webpack 삽질 (TEXT)](https://github.com/ShinMini/webpack-SAB-JIL)
    2. [BABEL 삽질 (TEXT)](https://github.com/ShinMini/babel-SAB-JIL)
 
+<br />
+
 # Back-End
    
    ### C++ 🔵
@@ -141,7 +145,8 @@
    1. [POKEMON BOOK (PROJECT)](https://github.com/ShinMini/pokemon-book)
    2. [CAFE MANAGEMENT APP (PROJECT)](https://github.com/ShinMini/cafeMangementAPP)
     
-   
+<br />
+ 
 # Server
    
    ### Servlet 🟣
