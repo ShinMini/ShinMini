@@ -164,6 +164,7 @@
 <hr>
 ```diff
 
-+ What does not kill me makes me stronger - Friedrich Nietzsche@@
++ What does not kill me makes me stronger - Friedrich Nietzsche in green
 
 ```
+
