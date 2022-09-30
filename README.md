@@ -105,7 +105,7 @@
 
 <br />
 
-# Front-End
+# Front-End 🚩
    
    ### REACT 🟡
    1. [REACT-ROUTER (TEXT)](https://github.com/ShinMini/Study-React-Router)
@@ -132,7 +132,7 @@
 
 <br />
 
-# Back-End
+#  Back-End 🚩
    
    ### C++ 🔵
    1. [CPP LIBRARY MANAGEMENT SYS (PROJECT)](https://github.com/ShinMini/cpp_library_calculator)
@@ -147,7 +147,7 @@
     
 <br />
  
-# Server
+# Server 🚩
    
    ### Servlet 🟣
    1. [COMPANY MANAGEMENT WEB SITE (PROJECT)](https://github.com/ShinMini/Servlet-java)
