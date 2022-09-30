@@ -1,8 +1,8 @@
 ![github__head_banner](https://user-images.githubusercontent.com/77220824/190882822-91ab89a3-400c-4a53-81e8-84573c2c9169.png)
 
 
-<img style="position: absolute; left: 5px; height: 285px;" src="https://github-readme-stats.vercel.app/api/?username=ShinMini" >
-<img style="height: 285px position: absolute; right: 5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini" >
+<img style="position: relative; left: 5px; height: 285px;" src="https://github-readme-stats.vercel.app/api/?username=ShinMini" >
+<img style="height: 285px; position: relative; right: 5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini" >
 
 
 
