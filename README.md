@@ -98,12 +98,12 @@
 <br />
 <img style="width: 100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue" >
 
-# 🟩DEV ENV Setting
+## 🟩 DEV ENV Setting
    
    - [WINDOW ENV SETTING (Text) 🟢](https://github.com/ShinMini/Window_SetUp) 
    - [LINUX ENV SETTING (Text) | window sub-sys ver 🟢](https://github.com/ShinMini/Ubuntu-In-Windows)
 
-# 🟨Front-End
+## 🟨 Front-End
    
    ### REACT 🟡
    1. [REACT-ROUTER (TEXT)](https://github.com/ShinMini/Study-React-Router)
@@ -128,7 +128,7 @@
    1. [webpack 삽질 (TEXT)](https://github.com/ShinMini/webpack-SAB-JIL)
    2. [BABEL 삽질 (TEXT)](https://github.com/ShinMini/babel-SAB-JIL)
 
-# 🟦Back-End
+## 🟦 Back-End
    
    ### C++ 🔵
    1. [CPP LIBRARY MANAGEMENT SYS (PROJECT)](https://github.com/ShinMini/cpp_library_calculator)
@@ -142,7 +142,7 @@
    2. [CAFE MANAGEMENT APP (PROJECT)](https://github.com/ShinMini/cafeMangementAPP)
     
    
-# 🟪Server
+## 🟪 Server
    
    ### Servlet 🟣
    1. [COMPANY MANAGEMENT WEB SITE (PROJECT)](https://github.com/ShinMini/Servlet-java)
