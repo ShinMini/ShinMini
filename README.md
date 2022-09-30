@@ -16,12 +16,18 @@
 
 </article>
 
+```diff
+- text in red
++ text in green
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 
 # SKILLS 🛠️
 
 
-## 🤖 Artificial Intelligence
+## 🤖 @@Artificial Intelligence
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tenAsorflow&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logocolor=white)
 ![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
