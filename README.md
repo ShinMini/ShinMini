@@ -103,7 +103,7 @@
 
 # DEV ENV Setting 
    
-   - [WINDOW ENV SETTING (Text)](https://github.com/ShinMini/Window_SetUp) `#c5f015`
+   - [WINDOW ENV SETTING (Text)](https://github.com/ShinMini/Window_SetUp) 
    
    - [LINUX ENV SETTING (Text), window sub-sys ver](https://github.com/ShinMini/Ubuntu-In-Windows)
 
