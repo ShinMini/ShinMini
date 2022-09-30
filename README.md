@@ -1,8 +1,8 @@
 ![github__head_banner](https://user-images.githubusercontent.com/77220824/190882822-91ab89a3-400c-4a53-81e8-84573c2c9169.png)
 
 
-<img style="width: 98.5%;" src="https://github-readme-stats.vercel.app/api/?username=ShinMini" >
-<img style="width: 100%;"src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue" >
+<img src="https://github-readme-stats.vercel.app/api/?username=ShinMini" >
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue" >
 
 
 # SKILLS 🛠️
