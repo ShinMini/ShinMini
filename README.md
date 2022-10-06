@@ -102,10 +102,16 @@
    - [WINDOW ENV SETTING (Text) 🟢](https://github.com/ShinMini/Window_SetUp) 
    - [LINUX ENV SETTING (Text) | window sub-sys ver 🟢](https://github.com/ShinMini/Ubuntu-In-Windows)
 
-# [Machine-Learning]❤️
+# [Machine-Learning] 🤖
 
    - [S&P 500 chart analysis(Project)](https://github.com/ShinMini/SPA-Securities-Price-Analysis)
    
+# [Android & IOS] 📱
+
+   - [REACT-NATIVE-APP(Project)](https://github.com/ShinMini/health-care-app)
+   
+---
+
    <br />
    
 # [Front-End]
