@@ -178,15 +178,18 @@
 # [Study] ✏
    
    ### Algorithm(c++) ✔
-   1. [백준 알고리즘 문제 풀이](https://github.com/ShinMini/Servlet-java](https://github.com/ShinMini/Algorithm)
+   1. [백준 알고리즘 문제 풀이](https://github.com/ShinMini/Algorithm)
 
    ### DOM(segment of nodes) ✔
    2. [JS 기본 문법 정리](https://github.com/ShinMini/Study-JS)
-
+   
+   3. [java로 구현해보는 res, req, session, cokkies](https://github.com/ShinMini/Servlet-java)
+   
    ### library & framework ✔
-   3. [spring annotation 정리](https://github.com/ShinMini/spring-practice)
+   
+   4. [spring annotation 정리](https://github.com/ShinMini/spring-practice)
 
-   4. [REACT router 설정 정리](https://github.com/ShinMini/Study-React-Router)
+   5. [REACT router 설정 정리](https://github.com/ShinMini/Study-React-Router)
 
 
 ```diff
