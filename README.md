@@ -103,7 +103,9 @@
    - [LINUX ENV SETTING (Text) | window sub-sys ver 🟢](https://github.com/ShinMini/Ubuntu-In-Windows)
 
 <br />
-
+# [Machine-Learning]❤️
+   1. [S&P 500 chart analysis(Project)](https://github.com/ShinMini/SPA-Securities-Price-Analysis)
+   
 # [Front-End]
    
    ### REACT 🟡
