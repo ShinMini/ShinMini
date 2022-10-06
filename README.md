@@ -120,7 +120,8 @@
    1. [ELECTRIC BYCICLE MANAGE APP](HTTPS://GITHUB.COM/sHINmINI/wEB-fORM-php) 
   
    ### SPRING-JDK 🟡
-   1. [SPRING TEMPLATE SAMPLE (PROJECT, TEST) -미완성](https://github.com/ShinMini/spring-web) 
+   1. [JPA 활용 회원 관리 사이트(PROJECT)](https://github.com/ShinMini/Servlet-java)
+   2. [SPRING TEMPLATE SAMPLE (PROJECT, TEST) -미완성](https://github.com/ShinMini/spring-web) 
    
    ### PYSCRIPT 🟡
    1. [아직 생성 X, need to create project](https://github.com/ShinMini/Club-Management)
