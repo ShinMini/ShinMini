@@ -8,9 +8,9 @@
 
 <div style="display: flex; flex-direction: columns; align-items: center">
    <div style="display: flex; felx-direction: columns; align-items: center">
-      <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&repo=healt-care-app")>
-      <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=SPA-Securities-Price-Analysis")>
-      <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api/?username=ShinMini" >
+      <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&repo=healt-care-app")>
+      <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=SPA-Securities-Price-Analysis")>
+      <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/?username=ShinMini" >
    </div>
    <div>
 <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini&langs_count=10" >
