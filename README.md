@@ -9,10 +9,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=SPA-Securities-Price-Analysis)](https://github.com/ShinMini/SPA-Securities-Price-Analysis)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=health-care-app)](https://github.com/ShinMini/health-care-app)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini&hide=css,html)](https://github.com/ShinMini/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini&show_icons=true&theme=radical&hide=css,html&langs_count=8)](https://github.com/ShinMini/github-readme-stats)
 
-
-[![Most used Langs](https://wakatime.com/api/vi/?username=ShinMini&show_icons=true&theme=radical&layout=compact)](https://github.com/ShinMini/github-readme-stats)
  
 
 ### 🤖 AI
