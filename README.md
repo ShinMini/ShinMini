@@ -10,12 +10,12 @@
    <div style="width: 95%; display: grid; grid-template-columns: 1fr 1fr;">
       <div>
       <img style="width: 48%;" src="https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&repo=healt-care-app")>
-      <img style="width: 48%;" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=SPA-Securities-Price-Analysis")>
+      <img style="width: 48%;" src="https://github-readme-stats.vercel.app/api/pin/?usernameShinMini&repo=SPA-Securities-Price-Analysis")>
       </div>
-      <img style="width: 48%;" src="https://github-readme-stats.vercel.app/api/?username=ShinMini" >
+      <img style="width: 80%;" src="https://github-readme-stats.vercel.app/api/?username=ShinMini" >
    </div>
    <div stlye="width: 95%;">
-<img style="width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini&langs_count=10" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini&langs_count=10" >
    </div>
 </div>
 
