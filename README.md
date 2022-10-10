@@ -8,7 +8,7 @@
 
 <div style="display: flex; flex-direction: columns; align-items: center">
 <img style="height:230px;" src="https://github-readme-stats.vercel.app/api/?username=ShinMini" >
-<img style="height:230px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini" >
+<img style="height:230px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini&langs_count=10" >
 </div>
 
 ### 🤖 AI
