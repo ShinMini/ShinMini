@@ -7,8 +7,8 @@
 # Skill set 🛠️
 
 <div style="display: flex; flex-direction: columns; align-items: center">
-<img style="width: 50%;" src="https://github-readme-stats.vercel.app/api/?username=ShinMini" >
-<img style="width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini&langs_count=10" >
+<img style="width: 45%;" src="https://github-readme-stats.vercel.app/api/?username=ShinMini" >
+<img style="width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini&langs_count=10" >
 </div>
 
 ### 🤖 AI
