@@ -4,14 +4,14 @@
 * 📮 Insta: https://www.instagram.com/shin__mini
 
 
-# SKILLS 🛠️
+# Skill set 🛠️
 
 <div style="display: flex; flex-direction: columns; align-items: center">
 <img style="height:230px;" src="https://github-readme-stats.vercel.app/api/?username=ShinMini" >
 <img style="height:230px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini" >
 </div>
 
-## 🤖 Artificial Intelligence
+### 🤖 AI
 
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tenAsorflow&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logocolor=white)
@@ -19,7 +19,7 @@
 ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
 
-## 🌐 Front-End Development
+### 🌐 Front
 
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -32,7 +32,7 @@
 ![openjdk](https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
-## 🔗 Back-End Development
+### 🔗 Back 
 
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -41,9 +41,9 @@
 
 ---
 
-# TOOLS 🛠️
+# Tools handling 🛠️
 
-## 🚀 Frameworks & Library
+### 🚀 Frameworks & Library
 
 ![node js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![tsnode](https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white)
@@ -61,30 +61,30 @@
 ![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 
-## ⚡ Database 
+### ⚡ Database 
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-# ⚙️ ENV
+# ⚙️ DEV ENV
 
-## 💻 OS
+### 💻 OS
 
 ![window](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![mac os](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-## 💻 Terminal
+## #💻 Terminal
 
 ![powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![windows powershell](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
-## 👩‍💻 IDE
+### 👩‍💻 IDE
 
 ![neo vim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
@@ -96,29 +96,26 @@
 
 <br />
 
-# 🚀 Take a look my project lists 😊
+# 🚀 Project Lists
 
 <br />
 <img style="width: 100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue" >
 
-# [DEV ENV Setting]
-   
+## [DEV ENV Setting] 
    - [WINDOW ENV SETTING (Text) 🟢](https://github.com/ShinMini/Window_SetUp) 
    - [LINUX ENV SETTING (Text) | window sub-sys ver 🟢](https://github.com/ShinMini/Ubuntu-In-Windows)
 
-# [Machine-Learning] 🤖
-
+## [Machine-Learning] 🤖
    - [S&P 500 chart analysis(Project)](https://github.com/ShinMini/SPA-Securities-Price-Analysis)
    
-# [Android & IOS] 📱
-
+## [Android & IOS] 📱
    - [REACT-NATIVE-APP(Project)](https://github.com/ShinMini/health-care-app)
    
 ---
 
    <br />
    
-# [Front-End]
+## [Front]
    
    ### REACT 🟡
    1. [REACT-ROUTER (TEXT)](https://github.com/ShinMini/Study-React-Router)
@@ -146,7 +143,7 @@
 
 <br />
 
-#  [Back-End]
+##  [Back]
    
    ### C++ 🔵
    1. [CPP LIBRARY MANAGEMENT SYS (PROJECT)](https://github.com/ShinMini/cpp_library_calculator)
@@ -161,7 +158,7 @@
     
 <br />
  
-# [Server]
+## [Server Side]
    
    ### Servlet 🟣
    1. [COMPANY MANAGEMENT WEB SITE (PROJECT)](https://github.com/ShinMini/Servlet-java)
@@ -179,7 +176,7 @@
 
 <br>
 
-# [Study] ✏
+## [Notes] ✏
    
    ### Algorithm(c++) ✔
    1. [백준 알고리즘 문제 풀이](https://github.com/ShinMini/Algorithm)
