@@ -10,7 +10,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=health-care-app)](https://github.com/ShinMini/health-care-app)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini&show_icons=true&theme=radical&hide=css,html&langs_count=8)](https://github.com/ShinMini/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinMini&show_icons=true&theme=radical)
  
 
 ### 🤖 AI
