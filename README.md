@@ -11,7 +11,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini&hide=css,html)](https://github.com/ShinMini/github-readme-stats)
 
-https://wakatime.com/api/v1/
 
 [![Most used Langs](https://wakatime.com/api/vi/?username=ShinMini&show_icons=true&theme=radical&layout=compact)](https://github.com/ShinMini/github-readme-stats)
  
