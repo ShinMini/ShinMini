@@ -6,15 +6,11 @@
 
 # Skill set 🛠️
 
-<div style="width: 95%; display: grid; grid-template-columns: 1fr 1fr;">
-   <img style="width: 48%; hegith: 120px" src="https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&repo=healt-care-app")>
-   <img style="width: 48%; height: 120px" src="https://github-readme-stats.vercel.app/api/pin/?usernameShinMini&repo=SPA-Securities-Price-Analysis")>
-</div>
-      
-<div style="display: grid; grid-template-columns: 1fr 1fr;">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini&langs_count=24" >
-   <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api/?username=ShinMini" >
-</div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&repo=health-care-app)](https://github.com/ShinMini/SPA-Securities-Price-Analysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=S&P500 chart analize)](https://github.com/ShinMini/health-care-app)
+![ShinMni's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinMini&show_icons=true&theme=radical)
+[![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini&layout=compact)](https://github.com/sShinMini/github-readme-stats)
+ 
 
 ### 🤖 AI
 
