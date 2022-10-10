@@ -6,7 +6,7 @@
 
 # Skill set 🛠️
 
-<div style="display: flex; flex-direction: columns; align-items: center">
+<div style="display: flex; flex-direction: rows; align-items: center">
    <div style="display: flex; felx-direction: columns; align-items: center">
       <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&repo=healt-care-app")>
       <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=SPA-Securities-Price-Analysis")>
