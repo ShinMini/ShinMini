@@ -7,13 +7,13 @@
 # Skill set 🛠️
 
 <div style="width: 95%; display: grid; grid-template-columns: 1fr 1fr;">
-   <img style="width: 48%;" src="https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&repo=healt-care-app")>
-   <img style="width: 48%;" src="https://github-readme-stats.vercel.app/api/pin/?usernameShinMini&repo=SPA-Securities-Price-Analysis")>
+   <img style="width: 48%; hegith: 120px" src="https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&repo=healt-care-app")>
+   <img style="width: 48%; height: 120px" src="https://github-readme-stats.vercel.app/api/pin/?usernameShinMini&repo=SPA-Securities-Price-Analysis")>
 </div>
       
 <div style="display: grid; grid-template-columns: 1fr 1fr;">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini&langs_count=24" >
    <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api/?username=ShinMini" >
-   <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini&langs_count=10" >
 </div>
 
 ### 🤖 AI
