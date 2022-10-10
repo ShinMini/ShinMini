@@ -9,7 +9,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=SPA-Securities-Price-Analysis)](https://github.com/ShinMini/SPA-Securities-Price-Analysis)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=health-care-app)](https://github.com/ShinMini/health-care-app)
 
-![ShinMni's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinMini&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini&hide=css,html)](https://github.com/ShinMini/github-readme-stats)
 
 https://wakatime.com/api/v1/
 
