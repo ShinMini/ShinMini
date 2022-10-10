@@ -10,7 +10,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=health-care-app)](https://github.com/ShinMini/health-care-app)
 
 ![ShinMni's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinMini&show_icons=true&theme=radical)
-[![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini&layout=compact)](https://github.com/sShinMini/github-readme-stats)
+[![Most used Langs](https://github-readme-stats.vercel.app/api/wakatime/?username=ShinMini&show_icons=true&theme=radical&layout=compact)](https://github.com/sShinMini/github-readme-stats)
  
 
 ### 🤖 AI
