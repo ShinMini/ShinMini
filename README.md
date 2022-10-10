@@ -8,11 +8,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=SPA-Securities-Price-Analysis)](https://github.com/ShinMini/SPA-Securities-Price-Analysis)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=health-care-app)](https://github.com/ShinMini/health-care-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=pokemon-book)](https://github.com/ShinMini/pokemon-book.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=Window_SetUp)](https://github.com/ShinMini/Window_SetUp.git)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini&show_icons=true&theme=radical&hide=css,html&langs_count=10)](https://github.com/ShinMini/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=health-care-app)](https://github.com/ShinMini/Window_SetUp.git)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini&show_icons=true&theme=radical&hide=Jupyter Notebook,css,html&langs_count=10)](https://github.com/ShinMini/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinMini&show_icons=true&theme=radical)
  
 
