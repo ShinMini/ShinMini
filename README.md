@@ -4,7 +4,7 @@
 * 📮 Insta: https://www.instagram.com/shin__mini
 
 
-# Skill set 🛠️
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=SPA-Securities-Price-Analysis)](https://github.com/ShinMini/SPA-Securities-Price-Analysis)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=health-care-app)](https://github.com/ShinMini/health-care-app)
@@ -14,6 +14,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini&show_icons=true&theme=radical&hide=jupyter%20notebook,css,html&langs_count=10)](https://github.com/ShinMini/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinMini&show_icons=true&theme=radical)
  
+
+# Skill set 🛠️
 
 ### 🤖 AI
 
@@ -43,8 +45,6 @@
 ![java](https://img.shields.io/badge/Java-998888?style=for-the-badge&logo=java%2B%2B&logoColor=white)
 ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
----
-
 # Tools handling 🛠️
 
 ### 🚀 Frameworks & Library
@@ -70,7 +70,6 @@
 ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
 
 # ⚙️ DEV ENV
 
@@ -98,11 +97,8 @@
 
 ---
 
-<br />
-
 # 🚀 Project Lists
 
-<br />
 <img style="width: 100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue" >
 
 ## [DEV ENV Setting] 
@@ -115,9 +111,6 @@
 ## [Android & IOS] 📱
    - [REACT-NATIVE-APP(Project)](https://github.com/ShinMini/health-care-app)
    
----
-
-   <br />
    
 ## [Front]
    
@@ -145,7 +138,6 @@
    1. [webpack 삽질 (TEXT)](https://github.com/ShinMini/webpack-SAB-JIL)
    2. [BABEL 삽질 (TEXT)](https://github.com/ShinMini/babel-SAB-JIL)
 
-<br />
 
 ##  [Back]
    
@@ -159,9 +151,8 @@
    ### JAVA 🔵
    1. [POKEMON BOOK (PROJECT)](https://github.com/ShinMini/pokemon-book)
    2. [CAFE MANAGEMENT APP (PROJECT)](https://github.com/ShinMini/cafeMangementAPP)
-    
-<br />
- 
+   
+   
 ## [Server Side]
    
    ### Servlet 🟣
@@ -177,8 +168,6 @@
    1. [firebase 삽질(TEXT)](https://github.com/ShinMini/firebase-SAB-JIL)
    
 ---
-
-<br>
 
 ## [Notes] ✏
    
@@ -199,5 +188,4 @@
 
 ```diff
 + What does not kill me makes me stronger
-
 ```
