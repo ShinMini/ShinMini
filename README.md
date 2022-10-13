@@ -10,7 +10,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=pokemon-book)](https://github.com/ShinMini/pokemon-book.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=Window_SetUp)](https://github.com/ShinMini/Window_SetUp.git)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini&show_icons=true&theme=radical&hide=jupyter%20notebook,javascript,css,html&langs_count=10)](https://github.com/ShinMini/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini&show_icons=true&theme=radical&hide=jupyter%20notebook,css,html&langs_count=10)](https://github.com/ShinMini/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinMini&show_icons=true&theme=radical)
  
 
