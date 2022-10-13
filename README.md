@@ -44,6 +44,9 @@
 ![java](https://img.shields.io/badge/Java-998888?style=for-the-badge&logo=java%2B%2B&logoColor=white)
 ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
+
+<br />
+
 # Tools handling 🛠️
 
 ### 🚀 Frameworks & Library
@@ -70,6 +73,8 @@
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
+<br />
+
 # ⚙️ DEV ENV
 
 ### 💻 OS
@@ -95,6 +100,8 @@
 ![webstorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 
 ---
+
+<br />
 
 # 🚀 Project Lists
 
