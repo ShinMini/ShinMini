@@ -5,9 +5,9 @@
 
 # Preview
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=SPA-Securities-Price-Analysis)](https://github.com/ShinMini/SPA-Securities-Price-Analysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=Make_Chart_Web_App)](https://github.com/ShinMini/Make_Chart_Web_App)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=health-care-app)](https://github.com/ShinMini/health-care-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=pokemon-book)](https://github.com/ShinMini/pokemon-book.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=Rise-And-Ride)](https://github.com/ShinMini/Rise-And-Ride)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=Terminal-Decoration)](https://github.com/ShinMini/Terminal-Decoration.git)
 
 
