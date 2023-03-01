@@ -5,10 +5,10 @@
 
 # Preview
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=Make_Chart_Web_App)](https://github.com/ShinMini/Make_Chart_Web_App)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=health-care-expoRN)](https://github.com/ShinMini/health-care-expoRN)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=Chart-React)](https://github.com/ShinMini/Chart-React)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=ML-Health-Care-App)](https://github.com/ShinMini/ML-Health-Care-App)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=Rise-And-Ride)](https://github.com/ShinMini/Rise-And-Ride)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=Terminal-Decoration)](https://github.com/ShinMini/Terminal-Decoration.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=DEV-CONFIG-FOR-WINDOW)](https://github.com/ShinMini/DEV-CONFIG-FOR-WINDOW.git)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini&show_icons=true&theme=radical&hide=jupyter%20notebook,css,html&langs_count=10)](https://github.com/ShinMini/github-readme-stats)
@@ -108,17 +108,29 @@
 
 <img style="width: 100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue" >
 
-## [DEV ENV Setting] 
-   - [WINDOW ENV SETTING (Text) 🟢](https://github.com/ShinMini/Window_SetUp) 
-   - [LINUX ENV SETTING (Text) | window sub-sys ver 🟢](https://github.com/ShinMini/Ubuntu-In-Windows)
+## [DEV ENV GUIDE] 
+   - [WINDOW DEV ENV SETTING](https://github.com/ShinMini/DEV-CONFIG-FOR-WINDOW) 
+   - [LINUX DEV ENV SETTING](https://github.com/ShinMini/Ubuntu-In-Windows)
 
-## [Machine-Learning] 🤖
-   - [S&P 500 chart analysis(Project)](https://github.com/ShinMini/SPA-Securities-Price-Analysis)
+## [ML] 🤖
+   - [S&P 500 Chart Analysis](https://github.com/ShinMini/SPA-Securities-Price-Analysis)
    
-## [Android & IOS] 📱
-   - [REACT-NATIVE-APP(Project)](https://github.com/ShinMini/health-care-app)
-   
-   
+## [React-Native] 📱
+   - [ML-Health-Care-App](https://github.com/ShinMini/ML-Health-Care-App)
+   - [Rise-And-Ride](https://github.com/ShinMini/Rise-And-Ride)
+   - [Do-it-clone](https://github.com/ShinMini/person-react-native)
+   - [RNN-TS-Template](https://github.com/ShinMini/RNN-TS-Template)
+
+
+## [React]
+   - [Chart-React](https://github.com/ShinMini/Chart-React)
+   - [Tailwind-React with jest](https://github.com/ShinMini/tailwind-react)
+
+
+## [JAVA-Spring]
+ - [Login-Component](https://github.com/ShinMini/xehub)
+ - [Cafe-Manager](https://github.com/ShinMini/Cafe-Manager)
+
 ## [Front]
    
    ### REACT 🟡
