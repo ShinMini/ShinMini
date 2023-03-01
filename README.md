@@ -66,9 +66,10 @@
 ![webstorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 
 
-# [DEV ENV CONFIG] 
-   - [WINDOW DEV ENV SETTING](https://github.com/ShinMini/DEV-CONFIG-FOR-WINDOW) 
-   - [LINUX DEV ENV SETTING](https://github.com/ShinMini/Ubuntu-In-Windows)
+# My currently dev env set up guide
+
+   ## [WINDOW DEV ENV SETTING](https://github.com/ShinMini/DEV-CONFIG-FOR-WINDOW) 
+   ## [LINUX DEV ENV SETTING](https://github.com/ShinMini/Ubuntu-In-Windows)
 
 ---
 
