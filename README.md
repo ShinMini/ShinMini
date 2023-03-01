@@ -39,6 +39,7 @@
 ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+---
 
 # ⚙️ DEV ENV
 
@@ -64,43 +65,44 @@
 ![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![webstorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 
+
+# [DEV ENV CONFIG] 
+   - [WINDOW DEV ENV SETTING](https://github.com/ShinMini/DEV-CONFIG-FOR-WINDOW) 
+   - [LINUX DEV ENV SETTING](https://github.com/ShinMini/Ubuntu-In-Windows)
+
 ---
 
 # 🚀 Project Lists
 
 <img style="width: 100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue" >
 
-## [DEV ENV CONFIG] 
-   - [WINDOW DEV ENV SETTING](https://github.com/ShinMini/DEV-CONFIG-FOR-WINDOW) 
-   - [LINUX DEV ENV SETTING](https://github.com/ShinMini/Ubuntu-In-Windows)
-
-## [React-Native] 📱
+# [React-Native] 📱
    - [ML-Health-Care-App](https://github.com/ShinMini/ML-Health-Care-App)
    - [Rise-And-Ride](https://github.com/ShinMini/Rise-And-Ride)
    - [Do-it-clone](https://github.com/ShinMini/RN-Do-It)
    - [RNN-TS-Template](https://github.com/ShinMini/RNN-TS-Template)
    - [RN-Reanimated-Template](RN-Reanimation2-Template)
 
-## [React]
+# [React]
    - [Chart-React](https://github.com/ShinMini/Chart-React)
    - [Tailwind-React-with-jest](https://github.com/ShinMini/tailwind-react)
 
-## [Python] 🤖
+# [Python] 🤖
    - [SP500-주가-분석-분석-모델-"S&P 500 Chart Analysis"](https://github.com/ShinMini/SPA-Securities-Price-Analysis)
 
 
-## [JAVA-Spring]
+# [JAVA-Spring]
  - [Login-Component](https://github.com/ShinMini/xehub)
  - [Cafe-Manager](https://github.com/ShinMini/Cafe-Manager)
  - [Pokemon-Book](https://github.com/ShinMini/pokemon-book)
 
-## [JAVA & Flask]
+# [JAVA & Flask]
  - [Club-Management-App](https://github.com/ShinMini/Club-Management)
 
-## [JAVA-SERVLET]
+# [JAVA-SERVLET]
  - [Dept-Management-App](https://github.com/ShinMini/Dept-Management)
 
-## [C++]
+# [C++]
  - [Library-Management-App](https://github.com/ShinMini/cpp_library_calculator)
  - [Algorithm](https://github.com/ShinMini/Algorithm)
 
