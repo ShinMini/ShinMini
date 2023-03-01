@@ -69,6 +69,8 @@ gusals121234@gmail.com
 https://www.instagram.com/shin__mini
 ```
 
+---
+
 # Preview
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=Chart-React)](https://github.com/ShinMini/Chart-React)
@@ -80,8 +82,6 @@ https://www.instagram.com/shin__mini
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini&show_icons=true&theme=radical&hide=jupyter%20notebook,css,html&langs_count=10)](https://github.com/ShinMini/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinMini&show_icons=true&theme=radical) -->
 
----
-
 <br />
 
 # My currently dev env set up guide
@@ -89,7 +89,8 @@ https://www.instagram.com/shin__mini
    ## [WINDOW DEV ENV SETTING](https://github.com/ShinMini/DEV-CONFIG-FOR-WINDOW) 
    ## [LINUX DEV ENV SETTING](https://github.com/ShinMini/Ubuntu-In-Windows)
 
----
+<br />
+
 
 # 🚀 Project Lists
 
