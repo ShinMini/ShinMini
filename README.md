@@ -1,7 +1,9 @@
 ![github profile](https://user-images.githubusercontent.com/77220824/190882822-91ab89a3-400c-4a53-81e8-84573c2c9169.png)
+
 # Contact
-* 📧 Email: gusals121234@gmail.com
-* 📮 Insta: https://www.instagram.com/shin__mini
+   * 📞 Phone: +82 10-8794-3202
+   * 📧 Email: gusals121234@gmail.com
+   * 📮 Insta: https://www.instagram.com/shin__mini
 
 # Preview
 
@@ -10,9 +12,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=Rise-And-Ride)](https://github.com/ShinMini/Rise-And-Ride)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=DEV-CONFIG-FOR-WINDOW)](https://github.com/ShinMini/DEV-CONFIG-FOR-WINDOW.git)
 
-
+<!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini&show_icons=true&theme=radical&hide=jupyter%20notebook,css,html&langs_count=10)](https://github.com/ShinMini/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinMini&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinMini&show_icons=true&theme=radical) -->
 
 ---
 
