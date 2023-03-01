@@ -7,12 +7,14 @@
 ```text
 +82 10-8794-3202
 ```
+
 ### 📧 Email
 
 ```text
 gusals121234@gmail.com
 ```
-###📮 Insta
+
+### 📮 Insta
 
 ```text
 https://www.instagram.com/shin__mini
