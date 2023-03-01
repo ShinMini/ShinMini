@@ -13,42 +13,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMini&show_icons=true&theme=radical&hide=jupyter%20notebook,css,html&langs_count=10)](https://github.com/ShinMini/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinMini&show_icons=true&theme=radical)
- 
 
-# Skill set 🛠️
-
-### 🤖 AI
-
-![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tenAsorflow&logoColor=white)
-![python](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logocolor=white)
-![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-
-
-### 🌐 Front
-
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=whit)
-![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![openjdk](https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-
-### 🔗 Back 
-
-![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![java](https://img.shields.io/badge/Java-998888?style=for-the-badge&logo=java%2B%2B&logoColor=white)
-![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-
-
-<br />
-
-# Tools handling 🛠️
+---
 
 ### 🚀 Frameworks & Library
 
@@ -73,8 +39,6 @@
 ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
-<br />
 
 # ⚙️ DEV ENV
 
@@ -102,107 +66,54 @@
 
 ---
 
-<br />
-
 # 🚀 Project Lists
 
 <img style="width: 100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue" >
 
-## [DEV ENV GUIDE] 
+## [DEV ENV CONFIG] 
    - [WINDOW DEV ENV SETTING](https://github.com/ShinMini/DEV-CONFIG-FOR-WINDOW) 
    - [LINUX DEV ENV SETTING](https://github.com/ShinMini/Ubuntu-In-Windows)
 
-## [ML] 🤖
-   - [S&P 500 Chart Analysis](https://github.com/ShinMini/SPA-Securities-Price-Analysis)
-   
 ## [React-Native] 📱
    - [ML-Health-Care-App](https://github.com/ShinMini/ML-Health-Care-App)
    - [Rise-And-Ride](https://github.com/ShinMini/Rise-And-Ride)
-   - [Do-it-clone](https://github.com/ShinMini/person-react-native)
+   - [Do-it-clone](https://github.com/ShinMini/RN-Do-It)
    - [RNN-TS-Template](https://github.com/ShinMini/RNN-TS-Template)
-
+   - [RN-Reanimated-Template](RN-Reanimation2-Template)
 
 ## [React]
    - [Chart-React](https://github.com/ShinMini/Chart-React)
-   - [Tailwind-React with jest](https://github.com/ShinMini/tailwind-react)
+   - [Tailwind-React-with-jest](https://github.com/ShinMini/tailwind-react)
+
+## [Python] 🤖
+   - [SP500-주가-분석-분석-모델-"S&P 500 Chart Analysis"](https://github.com/ShinMini/SPA-Securities-Price-Analysis)
 
 
 ## [JAVA-Spring]
  - [Login-Component](https://github.com/ShinMini/xehub)
  - [Cafe-Manager](https://github.com/ShinMini/Cafe-Manager)
+ - [Pokemon-Book](https://github.com/ShinMini/pokemon-book)
 
-## [Front]
-   
-   ### REACT 🟡
-   1. [REACT-ROUTER (TEXT)](https://github.com/ShinMini/Study-React-Router)
-   2. [MOVIE APP (PROJECT), CLONE CODING](https://github.com/ShinMini/Movie-APP)
-   3. [ROUTER -SAMPLE (PROJECT, TEXT) -미완성](https://github.com/ShinMini/Router)
-      
-   ### BANILA JS 🟡
-   1. [EXPRESS (TEXT)](https://github.com/ShinMini/Express)
-   2. [STUDY-JS (PROJECT)](https://github.com/ShinMini/Study-JS)
-   3. [STUDY CSS TEMPLATE (PROJECT, TEXT)](https://github.com/ShinMini/CSS-Animation-Form)      
-   
-   ### PHP 🟡
-   1. [ELECTRIC BYCICLE MANAGE APP](HTTPS://GITHUB.COM/sHINmINI/wEB-fORM-php) 
-  
-   ### SPRING-JDK 🟡
-   1. [JPA 활용 회원 관리 사이트(PROJECT)](https://github.com/ShinMini/Servlet-java)
-   2. [SPRING TEMPLATE SAMPLE (PROJECT, TEST) -미완성](https://github.com/ShinMini/spring-web) 
-   
-   ### PYSCRIPT 🟡
-   1. [아직 생성 X, need to create project](https://github.com/ShinMini/Club-Management)
-   
-   ### WEB-LIB 🟡
-   1. [webpack 삽질 (TEXT)](https://github.com/ShinMini/webpack-SAB-JIL)
-   2. [BABEL 삽질 (TEXT)](https://github.com/ShinMini/babel-SAB-JIL)
+## [JAVA & Flask]
+ - [Club-Management-App](https://github.com/ShinMini/Club-Management)
 
+## [JAVA-SERVLET]
+ - [Dept-Management-App](https://github.com/ShinMini/Dept-Management)
 
-##  [Back]
-   
-   ### C++ 🔵
-   1. [CPP LIBRARY MANAGEMENT SYS (PROJECT)](https://github.com/ShinMini/cpp_library_calculator)
-   2. [CPP ALGORITHM (TEXT)](https://github.com/ShinMini/Algorithm)	
-   
-   ### Kotlin 🔵
-   1. [KOTLIN CHAT APP (PROJECT), 미완성 프로젝트](https://github.com/ShinMini/Kotlin-Android)
-   
-   ### JAVA 🔵
-   1. [POKEMON BOOK (PROJECT)](https://github.com/ShinMini/pokemon-book)
-   2. [CAFE MANAGEMENT APP (PROJECT)](https://github.com/ShinMini/cafeMangementAPP)
-   
-   
-## [Server Side]
-   
-   ### Servlet 🟣
-   1. [COMPANY MANAGEMENT WEB SITE (PROJECT)](https://github.com/ShinMini/Servlet-java)
-   
-   ### Ajax with flask 🟣
-   1. [CLUB MANAGEMENT WEB SITE (PROJECT)](https://github.com/ShinMini/Club-Management)
-   
-   ### npm(node js) 🟣
-   1. [REACT ROUTER WEB SITE (INCOMPLETE)- 미완성](https://github.com/ShinMini/Club-Management)
-   
-   ### firebase 🟣
-   1. [firebase 삽질(TEXT)](https://github.com/ShinMini/firebase-SAB-JIL)
-   
----
+## [C++]
+ - [Library-Management-App](https://github.com/ShinMini/cpp_library_calculator)
+ - [Algorithm](https://github.com/ShinMini/Algorithm)
 
-## [Notes] ✏
-   
-   ### Algorithm(c++) ✔
-   1. [백준 알고리즘 문제 풀이](https://github.com/ShinMini/Algorithm)
-
-   ### DOM(segment of nodes) ✔
-   2. [JS 기본 문법 정리](https://github.com/ShinMini/Study-JS)
-   
-   3. [java로 구현해보는 res, req, session, cokkies](https://github.com/ShinMini/Servlet-java)
-   
-   ### library & framework ✔
-   
-   4. [spring annotation 정리](https://github.com/ShinMini/spring-practice)
-
-   5. [REACT router 설정 정리](https://github.com/ShinMini/Study-React-Router)
+# [digging collection (삽질 모음)]
+ - [JAVA](https://github.com/ShinMini/JAVA-SAB-JIL)
+ - [JAVA-Spring](https://github.com/ShinMini/Java-Spring-SAB-JIL)
+ - [Spring-Web](https://github.com/ShinMini/Spring-Web-SAB-JIL)
+ - [Kotlin-Android](https://github.com/ShinMini/Kotlin-Android)
+ - [JavaScript](https://github.com/ShinMini/JS-SAB-JIL)
+ - [React-Router](https://github.com/ShinMini/React-Router-SAB-JIL)
+ - [JS-Express](https://github.com/ShinMini/Express-SAB-JIL)
+ - [WebPack](https://github.com/ShinMini/webpack-SAB-JIL)
+ - [FireBase](https://github.com/ShinMini/firebase-SAB-JIL)
 
 
 ```diff
