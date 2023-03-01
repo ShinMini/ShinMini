@@ -2,9 +2,21 @@
 
 # Contact
  
-📞 Phone: `+82 10-8794-3202`
-📧 Email: `gusals121234@gmail.com`
-📮 Insta: `https://www.instagram.com/shin__mini`
+### 📞 Phone 
+
+```text
++82 10-8794-3202
+```
+### 📧 Email
+
+```text
+gusals121234@gmail.com
+```
+###📮 Insta
+
+```text
+https://www.instagram.com/shin__mini
+```
 
 # Preview
 
