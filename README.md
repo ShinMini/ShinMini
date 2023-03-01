@@ -1,3 +1,6 @@
+![github profile](https://user-images.githubusercontent.com/77220824/190882822-91ab89a3-400c-4a53-81e8-84573c2c9169.png)
+
+---
 
 🚀 Frameworks & Library
 
@@ -45,9 +48,6 @@
 ![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![webstorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 
----
-
-![github profile](https://user-images.githubusercontent.com/77220824/190882822-91ab89a3-400c-4a53-81e8-84573c2c9169.png)
 
 # Contact
  
