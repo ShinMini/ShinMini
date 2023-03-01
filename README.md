@@ -1,9 +1,10 @@
 ![github profile](https://user-images.githubusercontent.com/77220824/190882822-91ab89a3-400c-4a53-81e8-84573c2c9169.png)
 
 # Contact
-   * 📞 Phone: +82 10-8794-3202
-   * 📧 Email: gusals121234@gmail.com
-   * 📮 Insta: https://www.instagram.com/shin__mini
+ 
+📞 Phone: `+82 10-8794-3202`
+📧 Email: `gusals121234@gmail.com`
+📮 Insta: `https://www.instagram.com/shin__mini`
 
 # Preview
 
