@@ -49,24 +49,10 @@
 ---
 
 # Contact
- 
-### 📞 Phone 
 
-```text
-+82 10-8794-3202
-```
-
-### 📧 Email
-
-```text
-gusals121234@gmail.com
-```
-
-### 📮 Insta
-
-```text
-https://www.instagram.com/shin__mini
-```
+📧 Email: gusals121234@gmail.com
+🖌️ LinkedIn: https://www.linkedin.com/in/hyeon-min-shin-689008248
+📮 IG: https://www.instagram.com/shin__mini
 
 ---
 
