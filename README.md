@@ -4,7 +4,7 @@
 
 # Contact
 
-### 📧 [Email](shinhyeonmini@gmail.com)
+### 📧 Email ``` shinhyeonmini@gmail.com ```
 ### 🖌️ [LinkedIn](https://www.linkedin.com/in/hyeon-min-shin-689008248)
 ### 📮 [InstaGram](https://www.instagram.com/shin__mini)
 ### 📃 [Resume](https://docs.google.com/document/d/1G0RCOXg1JHimk4klJ4GsxbxgjNcggG3Y/edit)
