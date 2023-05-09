@@ -1,0 +1,12 @@
+// .prettierrc
+
+{
+  "arrowParens": "avoid",
+  "singleQuote": true,
+  "bracketSameLine": true,
+  "bracketSpacing": true,
+  "trailingComma": "all",
+  "tabWidth": 4,
+  "semi": true,
+  "printWidth": 120
+}
