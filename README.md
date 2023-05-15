@@ -74,67 +74,68 @@
    <details>
      <summary>🖱️ React Native</summary>
 
-      - [ML-Health-Care-App](https://github.com/ShinMini/ML-Health-Care-App)
-      - [Rise-And-Ride](https://github.com/ShinMini/Rise-And-Ride)
-      - [Do-it-clone](https://github.com/ShinMini/RN-Do-It)
-      - [RNN-TS-Template](https://github.com/ShinMini/RNN-TS-Template)
-      - [RN-Reanimated-Template](RN-Reanimation2-Template)
+      <a href="https://github.com/ShinMini/ML-Health-Care-App">ML-Health-Care-App]</a>
+      <a href="https://github.com/ShinMini/Rise-And-Ride">Rise-And-Ride</a>
+     <a href="https://github.com/ShinMini/RN-Do-It">Do-it-clone</a>
+<a href="https://github.com/ShinMini/RNN-TS-Template">RNN-TS-Template</a>
+<a href="RN-Reanimation2-Template">RN-Reanimated-Template</a>
 
+</details>
+
+<details>   
+   <summary>🌐React</summary>
+      <a href="https://github.com/ShinMini/Chart-React">Chart-React</a>
+      <a href="https://github.com/ShinMini/tailwind-react">Tailwind-React-with-jest</a>
+
+</details>
+
+<details>
+   <summary>🤖Python</summary>
+
+   <img src="https://img.shields.io/badge/mysql-#4479A1?style=for-the-badge&logo=git&logoColor=white">
+   <a href="https://github.com/ShinMini/SPA-Securities-Price-Analysis">SP500-주가-분석-분석-모델-"S&P 500 Chart Analysis"</a>
+
+
+   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+   <a href="https://github.com/ShinMini/Club-Management">Club-Management-App</a>
+
+</details>
+
+<details>
+   <summary>☕️ JAVA</summary>
+
+   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+
+   <a href="https://github.com/ShinMini/xehub">Login-Component</a>
+   <a href="https://github.com/ShinMini/Cafe-Manager">Cafe-Manager</a>
+   <a href="https://github.com/ShinMini/pokemon-book">Pokemon-Book</a>
+   <a href="https://github.com/ShinMini/Dept-Management">Dept-Management-App</a>
+
+</details>
+
+<details>
+   <summary>🅲 C/C++</summary>
+
+   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+
+   <a href="https://github.com/ShinMini/cpp_library_calculator">Library-Management-App</a>
+   <a href="https://github.com/ShinMini/Algorithm">Algorithm</a>
+</details>
+
+<details>
+   <summary>🖋️ Digging Collection</summary>
+
+   <a href="https://github.com/ShinMini/JAVA-SAB-JIL">JAVA</a>
+   <a href="https://github.com/ShinMini/Java-Spring-SAB-JIL">JAVA-Spring</a>
+   <a href="https://github.com/ShinMini/Spring-Web-SAB-JIL">Spring-Web</a>
+   <a href="https://github.com/ShinMini/Kotlin-Android">Kotlin-Android</a>
+   <a href="https://github.com/ShinMini/JS-SAB-JIL">JavaScript</a>
+   <a href="https://github.com/ShinMini/React-Router-SAB-JIL">React-Router</a>
+   <a href="https://github.com/ShinMini/Express-SAB-JIL">JS-Express</a>
+   <a href="https://github.com/ShinMini/webpack-SAB-JIL">WebPack</a>
+   <a href="https://github.com/ShinMini/firebase-SAB-JIL">FireBase</a>
    </details>
-
-   <details>   
-      <summary>🌐React</summary>
-      - [Chart-React](https://github.com/ShinMini/Chart-React)
-      - [Tailwind-React-with-jest](https://github.com/ShinMini/tailwind-react)
-
-   </details>
-
-   <details>
-      <summary>🤖Python</summary>
-
-      <img src="https://img.shields.io/badge/mysql-#4479A1?style=for-the-badge&logo=git&logoColor=white">
-      - [SP500-주가-분석-분석-모델-"S&P 500 Chart Analysis"](https://github.com/ShinMini/SPA-Securities-Price-Analysis)
-
-
-     <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-    - [Club-Management-App](https://github.com/ShinMini/Club-Management)
-
-   </details>
-
-   <details>
-      <summary>☕️ JAVA</summary>
-
-     <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-
-    - [Login-Component](https://github.com/ShinMini/xehub)
-    - [Cafe-Manager](https://github.com/ShinMini/Cafe-Manager)
-    - [Pokemon-Book](https://github.com/ShinMini/pokemon-book)
-    - [Dept-Management-App](https://github.com/ShinMini/Dept-Management)
-
-   </details>
-
-   <details>
-      <summary>🅲 C/C++</summary>
-      
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-
-    - [Library-Management-App](https://github.com/ShinMini/cpp_library_calculator)
-    - [Algorithm](https://github.com/ShinMini/Algorithm)
-   </details>
-
-      <details>
-      <summary>🖋️ Digging Collection</summary>
-
-    - [JAVA](https://github.com/ShinMini/JAVA-SAB-JIL)
-    - [JAVA-Spring](https://github.com/ShinMini/Java-Spring-SAB-JIL)
-    - [Spring-Web](https://github.com/ShinMini/Spring-Web-SAB-JIL)
-    - [Kotlin-Android](https://github.com/ShinMini/Kotlin-Android)
-    - [JavaScript](https://github.com/ShinMini/JS-SAB-JIL)
-    - [React-Router](https://github.com/ShinMini/React-Router-SAB-JIL)
-    - [JS-Express](https://github.com/ShinMini/Express-SAB-JIL)
-    - [WebPack](https://github.com/ShinMini/webpack-SAB-JIL)
-    - [FireBase](https://github.com/ShinMini/firebase-SAB-JIL)
-   </details>
+   
 </details>
 
 ```diff
