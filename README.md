@@ -26,13 +26,11 @@ shinhyeonmini@gmail.com
 
 <details>  
   <summary><h1> 📚 Stacks</h1></summary>  
-  <div align=flex-start>   
     <div align=center> 
       <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
       <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
       <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
     </div>
-
     <div align=center> 
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
       <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" >
@@ -43,7 +41,6 @@ shinhyeonmini@gmail.com
       <img src="https://img.shields.io/badge/openai-%2320232a.svg?style=for-the-badge&logo=openai&logoColor=%2361DAFB">
       <img src="https://img.shields.io/badge/tensorflow-%2320232a.svg?style=for-the-badge&logo=tensorflow&logoColor=%A361DA">
     </div>
-
     <div align=center> 
       <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
       <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
@@ -51,7 +48,6 @@ shinhyeonmini@gmail.com
       <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
       <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
     </div>
-
     <div align=center> 
       <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
       <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
@@ -60,19 +56,16 @@ shinhyeonmini@gmail.com
       <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
       <img src="https://img.shields.io/badge/tailwindcss-5972E3?style=for-the-badge&logo=tailwindcss&logoColor=white">
     </div>
-
     <div align=center> 
       <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
       <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
       <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
     </div>
-
     <div align=center> 
       <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
       <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
       <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
-    </div>
-  </div>  
+    </div>  
 </details>
 
 <details>
