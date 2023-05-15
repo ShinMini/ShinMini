@@ -14,6 +14,11 @@
  -->
 ---
 
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=DEV-CONFIG-FOR-WINDOW)](https://github.com/ShinMini/DEV-CONFIG-FOR-WINDOW.git)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=Chart-React)](https://github.com/ShinMini/Chart-React)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=ML-Health-Care-App)](https://github.com/ShinMini/ML-Health-Care-App)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=Rise-And-Ride)](https://github.com/ShinMini/Rise-And-Ride)
+   
 <details>
    <summary><h1> 📚 Stacks</h1></summary>
 <div align=center> 
@@ -59,19 +64,10 @@
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
 </div>
-
-<details>
-   <summary>Take A Look 😎</summary>
-
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=DEV-CONFIG-FOR-WINDOW)](https://github.com/ShinMini/DEV-CONFIG-FOR-WINDOW.git)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=Chart-React)](https://github.com/ShinMini/Chart-React)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=ML-Health-Care-App)](https://github.com/ShinMini/ML-Health-Care-App)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=Rise-And-Ride)](https://github.com/ShinMini/Rise-And-Ride)
-   
 </details>
 
 <details>
-  <summary>🚀Project Category</summary>
+   <summary><h1>🚀Project Category</h1></summary>
 
    <img style="width: 100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue">
 
