@@ -27,7 +27,7 @@
 <details>
   <summary>🚀Project Category</summary>
 
-<img style="width: 100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue" / >
+<img style="width: 100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue">
 
 <details>
   <summary>🖱️ React Native</summary>
@@ -51,14 +51,27 @@
    <summary>🤖Python</summary>
    - [SP500-주가-분석-분석-모델-"S&P 500 Chart Analysis"](https://github.com/ShinMini/SPA-Securities-Price-Analysis)
    </details>
+   
+   <details>
+      <summary>  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+      </summary>
+      1. kj
+      2. kjkkj
+   </details>
+<details>
+   <summary>☕️ JAVA</summary>
 
-# [JAVA-Spring]
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+   
  - [Login-Component](https://github.com/ShinMini/xehub)
  - [Cafe-Manager](https://github.com/ShinMini/Cafe-Manager)
  - [Pokemon-Book](https://github.com/ShinMini/pokemon-book)
-
-# [JAVA & Flask]
+   
+JAVA & Flask
  - [Club-Management-App](https://github.com/ShinMini/Club-Management)
+   
+</details/>
+
 
 # [JAVA-SERVLET]
  - [Dept-Management-App](https://github.com/ShinMini/Dept-Management)
