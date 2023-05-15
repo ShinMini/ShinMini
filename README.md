@@ -27,10 +27,10 @@
 <details>
   <summary>🚀Project Category</summary>
 
-<img style="width: 100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue" >
+<img style="width: 100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue" / >
 
 <details>
-  <summary>📱React Native</summary>
+  <summary>🖱️ React Native</summary>
    
    - [ML-Health-Care-App](https://github.com/ShinMini/ML-Health-Care-App)
    - [Rise-And-Ride](https://github.com/ShinMini/Rise-And-Ride)
@@ -39,13 +39,18 @@
    - [RN-Reanimated-Template](RN-Reanimation2-Template)
 
 </details>
-# [React]
+   
+<details>   
+   <summary>🌐React</summary>
    - [Chart-React](https://github.com/ShinMini/Chart-React)
    - [Tailwind-React-with-jest](https://github.com/ShinMini/tailwind-react)
 
-# [Python] 🤖
+</details>
+   
+<details>
+   <summary>🤖Python</summary>
    - [SP500-주가-분석-분석-모델-"S&P 500 Chart Analysis"](https://github.com/ShinMini/SPA-Securities-Price-Analysis)
-
+   </details>
 
 # [JAVA-Spring]
  - [Login-Component](https://github.com/ShinMini/xehub)
