@@ -14,7 +14,7 @@
 
 ---
 
-# Preview
+# Take A Look 😎
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=DEV-CONFIG-FOR-WINDOW)](https://github.com/ShinMini/DEV-CONFIG-FOR-WINDOW.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=Chart-React)](https://github.com/ShinMini/Chart-React)
@@ -24,18 +24,21 @@
 
 <br />
 
-
-# 🚀 Project Lists
+<details>
+  <summary>🚀Project Category</summary>
 
 <img style="width: 100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue" >
 
-# [React-Native] 📱
+<details>
+  <summary>📱React Native</summary>
+   
    - [ML-Health-Care-App](https://github.com/ShinMini/ML-Health-Care-App)
    - [Rise-And-Ride](https://github.com/ShinMini/Rise-And-Ride)
    - [Do-it-clone](https://github.com/ShinMini/RN-Do-It)
    - [RNN-TS-Template](https://github.com/ShinMini/RNN-TS-Template)
    - [RN-Reanimated-Template](RN-Reanimation2-Template)
 
+</details>
 # [React]
    - [Chart-React](https://github.com/ShinMini/Chart-React)
    - [Tailwind-React-with-jest](https://github.com/ShinMini/tailwind-react)
@@ -70,6 +73,7 @@
  - [WebPack](https://github.com/ShinMini/webpack-SAB-JIL)
  - [FireBase](https://github.com/ShinMini/firebase-SAB-JIL)
 
+</details>
 
 ```diff
 + What does not kill me makes me stronger
