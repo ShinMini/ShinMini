@@ -2,8 +2,6 @@
 
 ---
 
-<content>
-<pre><code class="language-md">
 # Contact
 
 ### 📧 Email 
@@ -16,19 +14,15 @@ shinhyeonmini@gmail.com
 -->
 
 ---
-</code>
-</pre>
 
+<content>
 <details>
 <summary><h1>Current Work</h1></summary>
 
-<pre><code class="language-md">
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=DEV-CONFIG-FOR-WINDOW)](https://github.com/ShinMini/DEV-CONFIG-FOR-WINDOW.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=Chart-React)](https://github.com/ShinMini/Chart-React)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=ML-Health-Care-App)](https://github.com/ShinMini/ML-Health-Care-App)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShinMini&show_icons=true&theme=radical&repo=Rise-And-Ride)](https://github.com/ShinMini/Rise-And-Ride)
-</code></pre>
-
 
 </details>
 
