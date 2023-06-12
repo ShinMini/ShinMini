@@ -6,7 +6,7 @@
 
 ### 📧 Email 
 ``` text
-shinhyeonmini@gmail.com 
+gusals121234@gmail.com 
 ```
 ### 🖌️ [LinkedIn](https://www.linkedin.com/in/shinmini)
 ### 📮 [InstaGram](https://www.instagram.com/shin__mini)
