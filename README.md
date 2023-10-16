@@ -8,7 +8,7 @@
 ``` text
 gusals121234@gmail.com 
 ```
-### [https://shimini.com](https://shinmini.com)
+### 🐙 [Homepage](https://shinmini.com)
 ### 🖌️ [LinkedIn](https://www.linkedin.com/in/shinmini)
 ### 📮 [InstaGram](https://www.instagram.com/shin__mini)
 <!-- ### 📃 [Resume](https://docs.google.com/document/d/1G0RCOXg1JHimk4klJ4GsxbxgjNcggG3Y/edit)
