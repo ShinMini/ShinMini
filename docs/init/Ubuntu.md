@@ -101,7 +101,7 @@ To configure Oh-My-Zsh plugins:
 
 1. **Edit the `~/.zshrc` file**:  
     ```bash
-    nano ~/.zshrc
+    vi ~/.zshrc
     ```
 2. **Find the `plugins=( )` line and add your desired plugins inside the parentheses**:  
     ```bash
@@ -113,6 +113,7 @@ To configure Oh-My-Zsh plugins:
     ```
 
 For a full list of available plugins, visit the [Oh-My-Zsh GitHub repository](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins).
+- or take a look at My personal sample file and grab it if you want: [link](https://github.com/ShinMini/ShinMini/blob/mini/docs/format/.zshrc)
 
 ---
 
