@@ -1,6 +1,6 @@
 """ *** YOU SHOULD PUT THE BELOW COMMAND ON YOUR TERMINAL BEFORE ADJUSTING THIS FILE.
 """ *** 해당 파일 내용을 저장하기 전에 반드시 아래 커맨드를 터미널에 입력해주세요.
-""" > mkdir ~/.config/nvim & cp ~/Downloads/generate.vim ~/.config/nvim/init.vim 
+""" bash > mkdir -p ~/.config/nvim && touch ~/.config/nvim/init.vim
 """ origin : Optixal's Neovim Init.vim
 """ new version written by ShinMini for Korean window powershell user
 
