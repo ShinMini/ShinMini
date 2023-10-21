@@ -108,5 +108,4 @@ This guide is meant to provide a quick and straightforward way to set up your Ub
 
 ## References
 
-[How to Install Zsh...
-](https://phoenixnap.com/kb/install-zsh-ubuntu)https://phoenixnap.com/kb/install-zsh-ubuntu
+- [https://phoenixnap.com/kb/install-zsh-ubuntu](https://phoenixnap.com/kb/install-zsh-ubuntu)https://phoenixnap.com/kb/install-zsh-ubuntu
