@@ -1,58 +1,78 @@
 # Setting Up Ubuntu for First-Time Use
 
 ## Table of Contents
+
 1. [Introduction](#introduction)
-   - [Author](#author)
-   - [Target Audience](#target-audience)
+    - [Author](#author)
+    - [Target Audience](#target-audience)
 2. [Environment Setup](#environment-setup)
-   - [Ubuntu (Standalone or Subsystem)](#ubuntu-standalone-or-subsystem)
-   - [Kernel in macOS](#kernel-in-macos)
+    - [Ubuntu (Standalone or Subsystem)](#ubuntu-standalone-or-subsystem)
+    - [Kernel in macOS](#kernel-in-macos)
 3. [Shell Configuration](#shell-configuration)
-   - [Zsh with Oh-My-Zsh](#zsh-with-oh-my-zsh)
+    - [Zsh with Oh-My-Zsh](#zsh-with-oh-my-zsh)
 4. [Editor Setup](#editor-setup)
-   - [NeoVim](#neovim)
-5. [Additional Tools](#additional-tools)
-6. [Conclusion](#conclusion)
-7. [References](#references)
+    - [NeoVim](#neovim)
+5. [References](#references)
 
 ---
 
 ## Introduction
 
-This document aims to guide you through the process of setting up your Ubuntu environment for the first time. Whether you're new to Ubuntu or setting up a new system, this guide has got you covered.
+This document aims to guide you through setting up an Ubuntu environment for the first time. It's suitable for both newcomers and those looking to reinstall Ubuntu.
 
 ### Author
+
 - **Name**: HyeonMin Shin
 - **GitHub**: [ShinMini](https://github.com/ShinMini)
 - **Email**: [gusals121234@gmail.com](mailto:gusals121234@gmail.com)
 
 ### Target Audience
 
-This guide is aimed at:
-- Users who are new to Ubuntu
-- Users setting up Ubuntu as a standalone OS or as a subsystem in Windows
-- Users interested in running Ubuntu kernel in macOS
-- If you looking for "How to set up the Linux subsystem in the window": I highly recommend checking this [link: config-for-window](https://github.com/ShinMini/DEV-CONFIG-FOR-WINDOW/tree/version-6.1.0)
+This guide targets the following users:
+
+- New Ubuntu users
+- Those installing Ubuntu as either a standalone OS or a subsystem within Windows
+- Individuals interested in running the Ubuntu kernel on macOS
+
+**Note**: If you're looking for a guide on how to set up a Linux subsystem in Windows, check out [this link](https://github.com/ShinMini/DEV-CONFIG-FOR-WINDOW/tree/version-6.1.0).
+
 ---
 
 ## Environment Setup
 
 ### Ubuntu (Standalone or Subsystem)
 
-1. Update package list:  
+#### Package Management
+
+1. **Update package list**:  
     ```bash
     sudo apt update
     ```
-2. Upgrade installed packages:  
+2. **Upgrade installed packages**:  
     ```bash
     sudo apt upgrade
     ```
 
-// TODO: Add additional steps specific to your setup
+#### Git Configuration
+
+1. **Install Git**:  
+    ```bash
+    sudo apt install git
+    ```
+2. **Configure User Information**:  
+    ```bash
+    git config --global user.name "Your Name"
+    git config --global user.email "youremail@example.com"
+    ```
 
 ### Kernel in macOS
 
-// TODO: Insert instructions on setting up Ubuntu kernel in macOS
+While Ubuntu runs on the Linux kernel, macOS operates on a Unix-based kernel called Darwin. Here's how you can set up a similar environment on macOS:
+
+1. **Install Homebrew**:  
+    ```bash
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    ```
 
 ---
 
@@ -60,20 +80,39 @@ This guide is aimed at:
 
 ### Zsh with Oh-My-Zsh
 
-1. Install Zsh:  
+#### Installation
+
+1. **Install Zsh**:  
     ```bash
     sudo apt install zsh
     ```
-2. Set Zsh as default shell:  
+2. **Set Zsh as default shell**:  
     ```bash
     chsh -s $(which zsh)
     ```
-3. Install Oh-My-Zsh:  
+3. **Install Oh-My-Zsh**:  
     ```bash
     sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
     ```
 
-// TODO: Add any additional plugins or themes you use
+#### Plugin Configuration
+
+To configure Oh-My-Zsh plugins:
+
+1. **Edit the `~/.zshrc` file**:  
+    ```bash
+    nano ~/.zshrc
+    ```
+2. **Find the `plugins=( )` line and add your desired plugins inside the parentheses**:  
+    ```bash
+    plugins=(git z)
+    ```
+3. **Save and exit, then apply the changes**:  
+    ```bash
+    source ~/.zshrc
+    ```
+
+For a full list of available plugins, visit the [Oh-My-Zsh GitHub repository](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins).
 
 ---
 
@@ -81,31 +120,24 @@ This guide is aimed at:
 
 ### NeoVim
 
-1. Install NeoVim:  
+#### Installation and Configuration
+
+1. **Install NeoVim**:  
     ```bash
     sudo apt install neovim
     ```
-2. Create a config file:  
+2. **Create a configuration file**:  
     ```bash
     mkdir -p ~/.config/nvim && touch ~/.config/nvim/init.vim
     ```
-
-// TODO: Add any plugins or configuration settings you typically use
-
----
-
-## Additional Tools
-
-// TODO: List any other software or tools you commonly use
-
----
-
-## Conclusion
-
-This guide is meant to provide a quick and straightforward way to set up your Ubuntu environment. Feel free to adapt these guidelines according to your needs.
+3. **Update your configuration file according to your preferences**:  
+   - My personal sample file: [link](https://github.com/ShinMini/ShinMini/blob/mini/docs/config/init.vim)
+   - Recommended auto-generator: [vim-bootstrap](https://vim-bootstrap.com/)
 
 ---
 
 ## References
 
-- [https://phoenixnap.com/kb/install-zsh-ubuntu](https://phoenixnap.com/kb/install-zsh-ubuntu)https://phoenixnap.com/kb/install-zsh-ubuntu
+- [Installing Zsh on Ubuntu](https://phoenixnap.com/kb/install-zsh-ubuntu)
+- [Oh-My-Zsh Installation](https://ohmyz.sh/#install)
+
