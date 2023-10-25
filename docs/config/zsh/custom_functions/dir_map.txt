@@ -1,0 +1,6 @@
+mini ~/Workspace/personal
+algo ~/Workspace/algorithm
+work ~/Workspace/sotatek
+down ~/Downloads
+desk ~/Desktop
+memo ~/Desktop/memo
