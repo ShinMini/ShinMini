@@ -14,84 +14,6 @@ export PATH="/usr/local/opt/libpq/bin:$PATH"
 # JDK
 export JAVA_HOME=/Library/Java/JavaVirtualMachines/zulu-11.jdk/Contents/Home
 
-function java-version() {
-# print current java version
-echo "\n------------[Your current java configuration]------------" 
-java -version
-echo "-----------------------------------------------------------\n"
-
-declare -a java_version_array # initialize java_version_array
-
-    # get all installed java version by using awk
-    java_version_array=($(ls -1 /Library/Java/JavaVirtualMachines/ | awk -F '\n' '{print $1}'))
-
-    # echo $java_version_array
-
-    # get selected java version by using select
-    # print all java version
-    count=1
-    for i in $java_version_array 
-    do
-        echo "$count) $i"
-        count=$((count+1))
-    done
-
-    echo ""
-    count=$((count-1))
-
-    # select java version
-    _java_version=""
-    vared -p 'Choose the number : ' -c _java_version
-
-    # check java version => _java_version must be smaller than count or upper than 0
-    if [ $_java_version -gt $count ] || [ $_java_version -lt 1 ]; then
-        echo "Please select the correct number"
-        echo "You selected the wrong number : $_java_version"
-        return
-    fi
-
-    count=1
-    selected_java_version=""
-    for i in $java_version_array
-    do
-        if [ $_java_version -eq $count ]; then
-            selected_java_version=$i
-            break
-        fi
-        count=$((count+1))
-    done
-
-    echo "\nThe selected java version => " $selected_java_version
-
-    # print selected java path
-    # need to consider linked path
-    # try to open path by using open command and catch the case when the path is not exist (just linked path)
-    # openjdk-11.jdk -> /usr/local/opt/openjdk@11/libexec/openjdk.jdk
-    # you can checked by ls -al command
-    #  ls -al /Library/Java/JavaVirtualMachines 2>&1 | awk -F '->' '{print $2}'
-    linked_dir=($(ls -al /Library/Java/JavaVirtualMachines 2>&1 | awk '/->/ {print $9 " " $11}'))
-    linked_target=($(ls -al /Library/Java/JavaVirtualMachines 2>&1 | awk '/->/ {print $9}'))
-    linked_path=($(ls -al /Library/Java/JavaVirtualMachines 2>&1 | awk '/->/ {print $11}'))
-
-    selected_path="/Library/Java/JavaVirtualMachines/${selected_java_version}/Contents/Home"
-    count=0
-
-    for i in $linked_target
-    do
-        if [ $i = $selected_java_version ]; then
-            selected_path="$linked_path/Contents/Home"
-            break
-        fi
-        count=$((count+1))
-    done
-
-    echo "The selected java path => " $selected_path '\n'
-    echo $fg[green]'successfuly changed with : ' $(java -version 2>&1 | awk '/version/') '🎉🎉\n'$reset_color
-
-    # set java version
-    export JAVA_HOME=$selected_path
-}
-
 # pnpm
 export PNPM_HOME="/Users/sinhyeonmin/Library/pnpm"
 # pnpm endexport PATH="/opt/homebrew/opt/postgresql@15/bin:$PATH"
@@ -104,6 +26,11 @@ export CPPFLAGS="-I/opt/homebrew/opt/postgresql@15/include"
 
 # For pkg-config to find postgresql@15 you may need to set:
 export PKG_CONFIG_PATH="/opt/homebrew/opt/postgresql@15/lib/pkgconfig"
+
+# For importing my custom functions which were written in cpp
+# this main.zsh will automatically import all cpp files in custom_functions folder and 
+source $HOME/.config/zsh/custom_functions/main.zsh
+export PATH="$HOME/bin:$PATH"
 
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 # ZSH_THEME="amuse"
@@ -175,11 +102,6 @@ function takeown() {
     fi
 }
 
-function takePicture() {
-    imagesnap -w 2 ~/Desktop/ImageSnap/$(date +%Y%m%d%H%M%S).jpg
-    open ~/Desktop/ImageSnap
-}
-
 # Would you like to use another custom folder than $ZSH/custom?
 # ZSH_CUSTOM=/path/to/new-custom-folder
 
@@ -229,11 +151,9 @@ if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
 # For a full list of active aliases, run `alias`.
 
 alias zshconfig="nvim ~/.zshrc"
+alias customfunctions="nvim ~/.config/zsh/custom_functions/"
 alias nvimconfig="nvim ~/.config/nvim"
 alias ohmyzsh="nvim ~/.oh-my-zsh"
-
-alias imgsnap="imagesnap -w 2 ~/Desktop/ImageSnap/$(date +%Y%m%d%H%M%S).jpg"
-alias checkimg="open ~/Desktop/ImageSnap"
 alias gradle-rm="rm -rf ~/.gradle/caches"
 
 # make sure open with .md file with nvim
@@ -273,68 +193,9 @@ function gitpush() {
     git push
 }
 
-function goto() {
-    dir_mini=~/Workspace/personal
-    dir_work=~/Workspace/sotatek
-    dir_down=~/Downloads
-    dir_desk=~/Desktop
-    dir_memo=~/Desktop/memo
-
-    typeset -a goto_choice
-    goto_choice=("mini" "work" "down" "desk" "memo")
-
-    token=""
-    if [[ -n $1 ]]
-    then
-        if [[ $1 == "mini" || $1 -eq 1 ]]
-        then
-            echo $fg[red]"goto mini..."$reset_color
-            cd $dir_mini
-            return
-        elif [[ $1 == "work" || $1 -eq 2 ]]
-        then
-            echo $fg[blue]"goto workspace..."$reset_color
-            cd $dir_work
-            return
-        elif [[ $1 == "down" || $1 -eq 3 ]]
-        then
-            echo $fg[green]"goto download..."$reset_color
-            cd $dir_down
-            return
-        elif [[ $1 == "desk" || $1 -eq 4 ]]
-        then
-            echo $fg[yellow]"goto desktop..."$reset_color
-            cd $dir_desk
-            return
-        elif [[ $1 == "memo" || $1 -eq 5 ]]
-        then
-            echo $fg[black]"goto memo..."$reset_color
-            cd $dir_memo
-            return
-        fi
-        echo "Invalid parameter: $1"
-    fi
-
-
-    goto_where=""
-    echo "Where do you want to go?"
-    echo "1. mini"
-    echo "2. work"
-    echo "3. down"
-    echo "4. desk"
-    echo "5. memo"
-
-    vared -p 'please chose the number: ' -c goto_where
-
-    case $goto_where in
-        1) cd $dir_mini;;
-        2) cd $dir_work;;
-        3) cd $dir_down;;
-        4) cd $dir_desk;;
-        5) cd $dir_memo;;
-        *) echo "Invalid choice: $goto_where";;
-    esac
-
+function gpp() {
+    cppFile=$(echo "$1" | awk -F "." '{print $1}')
+    g++ -std=c++17 -Wall -Wextra -Wshadow -Wnon-virtual-dtor -pedantic -o "$cppFile" "$cppFile.cpp"
 }
 
 test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh" || true
