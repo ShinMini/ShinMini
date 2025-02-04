@@ -1,4 +1,10 @@
-# Hello World!
+# Hi there :)
+
+![npm](https://img.shields.io/npm/v/react-native-inner-shadow?style=flat-square)
+![license](https://img.shields.io/github/license/ShinMini/react-native-inner-shadow?style=flat-square)
+![downloads](https://img.shields.io/npm/dm/react-native-inner-shadow?style=flat-square)
+
+[react-native-inner-shadow](https://www.npmjs.com/package/react-native-inner-shadow)
 
 # Contact
 
