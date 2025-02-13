@@ -1,10 +1,19 @@
-# Hi there :)
-
-![npm](https://img.shields.io/npm/v/react-native-inner-shadow?style=flat-square)
-![license](https://img.shields.io/github/license/ShinMini/react-native-inner-shadow?style=flat-square)
-![downloads](https://img.shields.io/npm/dm/react-native-inner-shadow?style=flat-square)
+# Hello there!
 
 ## [react-native-inner-shadow ❤️](https://www.npmjs.com/package/react-native-inner-shadow)
+A React Native library for creating **inset shadows** and **reflected light** effects with [React Native Skia](https://shopify.github.io/react-native-skia/).
+Supports both **solid** and **linear gradient** backgrounds for advanced UI designs, plus interactive pressable or toggle states using [Reanimated](https://docs.swmansion.com/react-native-reanimated/).
+
+[![npm](https://img.shields.io/npm/v/react-native-inner-shadow.svg)](https://www.npmjs.com/package/react-native-inner-shadow)
+![license](https://img.shields.io/github/license/ShinMini/react-native-inner-shadow)
+<a href="https://github.com/ShinMini/react-native-inner-shadow">
+    <img src="https://img.shields.io/npm/types/typescript" />
+</a>
+  
+![downloads](https://img.shields.io/npm/dm/react-native-inner-shadow?style=flat-square)
+![downloads](https://img.shields.io/npm/dw/react-native-inner-shadow?style=flat-square)
+
+
 
 # Contact
 
