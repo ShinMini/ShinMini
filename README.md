@@ -16,6 +16,10 @@ I constantly contribute to open-source types of work, love to share my experienc
 
 ### ⚙️ Tech Stack Overview
 
+<details>
+<summary>Click to expand
+</summary>
+
 #### Languages
 
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -175,6 +179,8 @@ I constantly contribute to open-source types of work, love to share my experienc
 
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
+</details>
+
 ---
 
 ### 🚀 Featured Project
@@ -189,6 +195,7 @@ featuring interactive components built with [Reanimated](https://docs.swmansion.
 ![ISC License](https://img.shields.io/npm/l/react-native-inner-shadow.svg)
 ![TypeScript](https://img.shields.io/npm/types/typescript)
 ![Downloads](https://img.shields.io/npm/dt/react-native-inner-shadow?style=flat-square)
+![Author](https://img.shields.io/badge/author-HyeonMin%20Shin-FFB703?style=flat-square)
 
 ---
 
@@ -198,8 +205,8 @@ featuring interactive components built with [Reanimated](https://docs.swmansion.
 
 ---
 
-> "What does not kill me makes me stronger."
+### ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue)
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinMini&theme=vue)
+> "What does not kill me makes me stronger."
 
 </div>
